@@ -27,7 +27,7 @@ public class FloatingText
     {
         if (!active)
             return;
-        if (Time.time - lastShown > duration)
+        if (Time.time - lastShown > duration)//Als de huidige tijd een groter verschil met het begin van het showen heeft dan de duration wordt de text gehidden
             Hide();
 
         go.transform.position += motion * Time.deltaTime;

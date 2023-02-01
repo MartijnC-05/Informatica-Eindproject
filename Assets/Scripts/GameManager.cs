@@ -14,6 +14,8 @@ public class GameManager : MonoBehaviour
             return;
         }
 
+        PlayerPrefs.DeleteAll();//Nu wordt alles aan het begin gereset
+
         instance = this;
         SceneManager.sceneLoaded += LoadState;
         DontDestroyOnLoad(gameObject);
@@ -41,7 +43,7 @@ public class GameManager : MonoBehaviour
     public int pesos;
     public int experience;
 
-    //Floating tezt
+    //Floating text
     public void ShowText(string msg, int fontsize, Color color, Vector3 position, Vector3 motion, float duration)
     {
         floatingTextManager.Show(msg,fontsize,color,position,motion,duration);
@@ -52,11 +54,11 @@ public class GameManager : MonoBehaviour
         string s = "";
 
         s += "0" + "|";
-        s += pesos.ToString() + "|";
+        s += pesos.ToString() + "|"; //Zet een int om naar een string
         s += experience.ToString() + "|";
         s += "0";
 
-        PlayerPrefs.SetString("SaveState", s);
+        PlayerPrefs.SetString("SaveState", s); //Je savet op savestate alles wat je aan s hebt toegevoegd (soort boodschappenlijst)
     }
 
     public void LoadState(Scene s, LoadSceneMode mode)
@@ -65,6 +67,9 @@ public class GameManager : MonoBehaviour
             return;
 
         string[] data = PlayerPrefs.GetString("SaveState").Split('|');
+
+
+        //Alles wat uit de SaveState komt wordt ingesteld voor de waardes
 
         //Change player skin
         pesos = int.Parse(data[1]);

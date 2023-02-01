@@ -33,7 +33,7 @@ public class FloatingTextManager : MonoBehaviour
 
     private FloatingText GetFloatingText()
     {
-        FloatingText txt = floatingTexts.Find(t => !t.active);
+        FloatingText txt = floatingTexts.Find(t => !t.active); //Zoek een floating text die niet actief is
 
         if (txt == null)
         {
@@ -45,6 +45,6 @@ public class FloatingTextManager : MonoBehaviour
             floatingTexts.Add(txt);
         }
 
-        return txt;
+        return txt; //Als er text is gevonden wordt die gereturned
     }
 }
