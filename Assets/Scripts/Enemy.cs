@@ -8,8 +8,8 @@ public class Enemy : Mover
     public int xpValue = 1;
 
     //Logic
-    public float triggerLength = 1;
-    public float chaseLength = 5;
+    public float triggerLength = 1; //als afstand minder dan 1 is valt enemy je aan
+    public float chaseLength = 5; //als enemy je meer dan 5 heeft achtervolgd stopt hij
     private bool chasing;
     private bool collidingWithPlayer;
     private Transform playerTransform;

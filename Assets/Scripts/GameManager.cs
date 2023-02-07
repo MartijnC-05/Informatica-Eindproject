@@ -14,12 +14,14 @@ public class GameManager : MonoBehaviour
             return;
         }
 
-        PlayerPrefs.DeleteAll();//Nu wordt alles aan het begin gereset
+        //PlayerPrefs.DeleteAll();//Nu wordt alles aan het begin gereset
 
         instance = this;
         SceneManager.sceneLoaded += LoadState;
         DontDestroyOnLoad(gameObject);
     }
+
+    
 
     //Resources
     public List<Sprite> playerSprites;

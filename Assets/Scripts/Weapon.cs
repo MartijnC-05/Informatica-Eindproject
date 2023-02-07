@@ -13,19 +13,22 @@ public class Weapon : Collidable
     private SpriteRenderer spriteRenderer;
 
     //Swing
+    private Animator anim;
     private float cooldown = 0.5f;
     private float lastSwing;
 
+    //in plaats van de start die in Collidable wordt uitgevoerd
     protected override void Start()
     {
         base.Start();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
 
     protected override void Update()
     {
         base.Update();
-
+        //Je mag alleen swingen als je cooldown geweest is
         if (Input.GetKeyDown(KeyCode.Space))
         {
             if(Time.time - lastSwing > cooldown)
@@ -51,12 +54,13 @@ public class Weapon : Collidable
                 pushForce = pushForce
             };
 
+            //Geeft informatie van de damage over aan de enemy
             coll.SendMessage("RecieveDamage", dmg);
         }
     }
 
     private void Swing()
     {
-        Debug.Log("Swing");
+        anim.SetTrigger("Swing");
     }
 }
