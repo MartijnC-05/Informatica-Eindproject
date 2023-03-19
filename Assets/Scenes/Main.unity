@@ -2274,7 +2274,7 @@ RectTransform:
   - {fileID: 1185182305}
   - {fileID: 954358439}
   m_Father: {fileID: 1387839204}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
@@ -2499,7 +2499,7 @@ GameObject:
   - component: {fileID: 496201276}
   - component: {fileID: 496201275}
   - component: {fileID: 496201274}
-  m_Layer: 6
+  m_Layer: 5
   m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2519,15 +2519,14 @@ RectTransform:
   m_Children:
   - {fileID: 1492478131}
   - {fileID: 804448923}
-  - {fileID: 1878858778}
   m_Father: {fileID: 1387839204}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 10, y: -10}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 10, y: 10}
   m_SizeDelta: {x: 330, y: 50}
-  m_Pivot: {x: 0, y: 1}
+  m_Pivot: {x: 0, y: 0}
 --- !u!95 &496201274
 Animator:
   serializedVersion: 3
@@ -2914,7 +2913,7 @@ GameObject:
   - component: {fileID: 804448923}
   - component: {fileID: 804448925}
   - component: {fileID: 804448924}
-  m_Layer: 6
+  m_Layer: 5
   m_Name: HealthLabel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2931,15 +2930,16 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1878858778}
   m_Father: {fileID: 496201273}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.5}
-  m_AnchorMax: {x: 0, y: 0.5}
-  m_AnchoredPosition: {x: 10, y: 0}
-  m_SizeDelta: {x: 110, y: 38.72}
-  m_Pivot: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: -20, y: 38.72}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &804448924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4261,8 +4261,8 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
-  - {fileID: 369732644}
   - {fileID: 496201273}
+  - {fileID: 369732644}
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4282,7 +4282,7 @@ GameObject:
   - component: {fileID: 1492478131}
   - component: {fileID: 1492478133}
   - component: {fileID: 1492478132}
-  m_Layer: 6
+  m_Layer: 5
   m_Name: Progress
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4844,7 +4844,7 @@ GameObject:
   - component: {fileID: 1878858778}
   - component: {fileID: 1878858780}
   - component: {fileID: 1878858779}
-  m_Layer: 6
+  m_Layer: 5
   m_Name: Health
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4862,13 +4862,13 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 496201273}
-  m_RootOrder: 2
+  m_Father: {fileID: 804448923}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9.999878, y: 0}
-  m_SizeDelta: {x: 100, y: -20}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: 14.5, y: 0}
+  m_SizeDelta: {x: 100, y: 30}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!114 &1878858779
 MonoBehaviour:
