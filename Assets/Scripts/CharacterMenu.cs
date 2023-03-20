@@ -17,7 +17,10 @@ public class CharacterMenu : MonoBehaviour
         //HP bar
         float HealthPercentage = (float)health / 100;
 
-
+        if (GameManager.instance.player.hitpoint >= 10)
+        {
+            GameManager.instance.player.hitpoint = 10;
+        }
         health = GameManager.instance.player.hitpoint * 10;
         healthText.text = health.ToString() + "%";
         hpBar.localScale = new Vector3(HealthPercentage, 1, 1);
