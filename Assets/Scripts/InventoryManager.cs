@@ -7,20 +7,27 @@ public class InventoryManager : MonoBehaviour
 {
     [SerializeField] private GameObject slotHolder;
 
+    
+
     //Item dat wordt toegevoegd
     [SerializeField] private ItemClass itemToAdd;
 
     //Item dat wordt weggehaald
     [SerializeField] private ItemClass itemToRemove;
 
+    [SerializeField] private SlotClass[] startingItems; 
+
     public List<SlotClass> items = new List<SlotClass>();
 
     private GameObject[] slots;
 
     //Kan dus andere functie zijn als er bijvoorbeeld wordt gecolide
-    public void Start()
+    private void Start()
     {
         slots = new GameObject[slotHolder.transform.childCount];
+        //items = new SlotClass[slots.Length];
+
+        
         //set all the slots
         for (int i = 0; i < slotHolder.transform.childCount; i++)
             slots[i] = slotHolder.transform.GetChild(i).gameObject;
@@ -30,6 +37,17 @@ public class InventoryManager : MonoBehaviour
         Remove(itemToRemove);//eerder genoemde item weghalen
     }
 
+    private void Update()
+    {
+        if (Input.GetMouseButtonDown(0)) // we clicked
+        {
+            //find closest slot (slot we clicked on
+            //Debug.Log(GetClosestSlot());
+        }
+    }
+
+
+    #region Inventory Utils
     public void RefreshUI()
     {
         for (int i = 0; i < slots.Length; i++)
@@ -55,7 +73,7 @@ public class InventoryManager : MonoBehaviour
 
     public bool Add(ItemClass item)
     {
-        //items.Add(item);
+        
         //check if inventory contains the item
 
         //als inventory item al heeft 1 aan stack toevoegen
@@ -118,4 +136,20 @@ public class InventoryManager : MonoBehaviour
 
         return null;
     }
+    #endregion Inventory Utils
+
+    #region interacting with stuff
+    private SlotClass GetClosestSlot()
+    {
+        Debug.Log(Input.mousePosition);
+
+        for (int i = 0; i < slots.Length; i++)
+        {
+            if (Vector2.Distance(slots[i].tranform.position, Input.mousePosition) <= 32)
+                return items[i];
+        }
+
+        return null;
+    }
+    #endregion
 }

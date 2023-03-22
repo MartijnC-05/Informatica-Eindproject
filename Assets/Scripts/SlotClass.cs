@@ -19,6 +19,18 @@ public class SlotClass
         quantity = _quantity;
     }
 
+    public SlotClass(SlotClass slot)
+    {
+        this.item = slot.GetItem();
+        this.quantity = slot.GetQuantity();
+    }
+
+    public void Clear()
+    {
+        this.item = null;
+        this.quantity = 0;
+    }
+
     public ItemClass GetItem ()
     {
         return item;
@@ -31,4 +43,9 @@ public class SlotClass
 
     public void AddQuantity(int _quantity) { quantity += _quantity; }
     public void SubQuantity(int _quantity) { quantity -= _quantity; }
+    public void AddItem(ItemClass item, int quantity)
+    { 
+        this.item = item;
+        this.quantity = quantity;
+    }
 }
