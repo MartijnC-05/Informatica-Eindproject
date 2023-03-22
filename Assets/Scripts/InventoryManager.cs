@@ -17,7 +17,7 @@ public class InventoryManager : MonoBehaviour
 
     [SerializeField] private SlotClass[] startingItems; 
 
-    public List<SlotClass> items = new List<SlotClass>();
+    private SlotClass[] items;
 
     private GameObject[] slots;
 
@@ -25,16 +25,26 @@ public class InventoryManager : MonoBehaviour
     private void Start()
     {
         slots = new GameObject[slotHolder.transform.childCount];
+        items = new SlotClass[slots.Length];
         //items = new SlotClass[slots.Length];
 
-        
+        for (int i = 0; i < items.Length; i++)
+        {
+            items[i] = new SlotClass();
+        }
+
+        for (int i = 0; i < startingItems.Length; i++)
+        {
+            items[i] = startingItems[i];
+        }
+
         //set all the slots
         for (int i = 0; i < slotHolder.transform.childCount; i++)
             slots[i] = slotHolder.transform.GetChild(i).gameObject;
         
         RefreshUI();
         Add(itemToAdd);//eerder genoemde item toevoegen
-        Remove(itemToRemove);//eerder genoemde item weghalen
+        //Remove(itemToRemove);//eerder genoemde item weghalen
     }
 
     private void Update()
@@ -70,7 +80,7 @@ public class InventoryManager : MonoBehaviour
             }
         }
     }
-
+    
     public bool Add(ItemClass item)
     {
         
@@ -83,12 +93,20 @@ public class InventoryManager : MonoBehaviour
         //anders nieuwe slot gebruiken
         else
         {
-            //als er slot vrij is
+            for(int i = 0; i < items.Length; i++)
+            {
+                if (items[i].GetItem() == null) //empty slot
+                { 
+                    items[i].AddItem(item, 1);
+                    break;
+                }
+            }
+ /*           //als er slot vrij is
             if (items.Count < slots.Length)
                 items.Add(new SlotClass(item, 1));
             //anders
             else
-                return false;
+                return false;*/
         }
         RefreshUI();
         return true;
@@ -104,17 +122,17 @@ public class InventoryManager : MonoBehaviour
                 temp.SubQuantity(1);
             else
             {
-                SlotClass slotToRemove = new SlotClass();
+                int slotToRemoveIndex = 0;
 
-                foreach (SlotClass slot in items)
+                for (int i = 0; i < items.Length; i++)
                 {
-                    if (slot.GetItem() == item)
+                    if (items[i].GetItem() == item)
                     {
-                        slotToRemove = slot;
+                        slotToRemoveIndex = i;
                         break;
                     }
                 }
-                items.Remove(slotToRemove);
+                items[slotToRemoveIndex].Clear();
             }
         }
         else
@@ -125,17 +143,17 @@ public class InventoryManager : MonoBehaviour
         RefreshUI();
         return true;
     }
-
+    
     public SlotClass Contains(ItemClass item)
     {
-        foreach (SlotClass slot in items)
+        for(int i = 0; i < items.Length; i++)
         {
-            if (slot.GetItem() == item)
-                return slot;
+            if(items[i].GetItem() == item && items[i].GetItem() != null)
+                return items[i];
         }
-
         return null;
     }
+    
     #endregion Inventory Utils
 
     #region interacting with stuff
@@ -143,11 +161,11 @@ public class InventoryManager : MonoBehaviour
     {
         Debug.Log(Input.mousePosition);
 
-        for (int i = 0; i < slots.Length; i++)
-        {
-            if (Vector2.Distance(slots[i].tranform.position, Input.mousePosition) <= 32)
-                return items[i];
-        }
+        //for (int i = 0; i < slots.Length; i++)
+        //{
+        //    if (Vector2.Distance(slots[i].tranform.position, Input.mousePosition) <= 32)
+        //        return items[i];
+        //}
 
         return null;
     }
