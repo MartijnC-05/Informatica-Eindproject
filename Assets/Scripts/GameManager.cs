@@ -60,6 +60,7 @@ public class GameManager : MonoBehaviour
         floatingTextManager.Show(msg,fontsize,color,position,motion,duration);
     }
 
+    #region saving and loading
     public void SaveState()
     {
         string s = "";
@@ -89,4 +90,5 @@ public class GameManager : MonoBehaviour
 
         Debug.Log("LoadState");
     }
+    #endregion saving and loading
 }

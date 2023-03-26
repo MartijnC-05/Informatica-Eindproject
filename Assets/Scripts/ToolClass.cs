@@ -1,4 +1,5 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "new Tool Class", menuName = "Item/Tool")]
@@ -17,10 +18,12 @@ public class ToolClass : ItemClass
     public int damagePoint = 1;
     public float pushForce = 2.0f;
 
-    
+    public override void Use(InventoryManager Caller)
+    {
+        Debug.Log("Damage: " + damagePoint);
+        //GameManager.instance.ShowText("Damage: " + damagePoint, 25, Color.yellow, Input.mousePosition, Vector3.up * 25, 1.5f);
+    }
 
-    public override ItemClass GetItem() { return this; }
     public override ToolClass GetTool() { return this; }
-    public override MiscClass GetMisc() { return null; }
-    public override ConsumableClass GetConsumable() { return null; }
+    
 }

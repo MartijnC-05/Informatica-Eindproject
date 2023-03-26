@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Bandage
   m_EditorClassIdentifier: 
   itemName: Bandage
+  hp: +20% hp
+  dmg: 
   itemIcon: {fileID: 6078739513676735485, guid: ae05a8457ce9b0a48aac8705bd38fdc6, type: 3}
   isStackable: 1
   healthAdded: 2

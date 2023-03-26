@@ -41,8 +41,8 @@ public class InventoryManager : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0)) // we clicked
         {
-            //find closest slot (slot we clicked on)
-            Debug.Log(GetClosestSlot().GetItem());
+            //item gebruiken
+            GetClosestSlot().GetItem().Use(this);
         }
     }
 
@@ -55,18 +55,29 @@ public class InventoryManager : MonoBehaviour
             try
             {
                 slots[i].transform.GetChild(0).GetComponent<Image>().enabled = true;
-                slots[i].transform.GetChild(0).GetComponent<Image>().sprite = items[i].GetItem().itemIcon;
+                slots[i].transform.GetChild(0).GetComponent<Image>().sprite = items[i].GetItem().itemIcon;                
+                slots[i].transform.GetChild(4).GetComponent<Text>().text = items[i].GetItem().itemName;
                 if (items[i].GetItem().isStackable)
+                {
                     slots[i].transform.GetChild(1).GetComponent<Text>().text = items[i].GetQuantity() + ""; //alleen quantity geven bij stackbare items
+                    slots[i].transform.GetChild(3).GetComponent<Text>().text = "";
+                    slots[i].transform.GetChild(2).GetComponent<Text>().text = items[i].GetItem().hp;
+                }
                 else
+                {
                     slots[i].transform.GetChild(1).GetComponent<Text>().text = "";
-
+                    slots[i].transform.GetChild(3).GetComponent<Text>().text = items[i].GetItem().dmg;
+                    slots[i].transform.GetChild(2).GetComponent<Text>().text = "";
+                }
             }
             catch 
             {
                 slots[i].transform.GetChild(0).GetComponent<Image>().sprite = null;
                 slots[i].transform.GetChild(0).GetComponent<Image>().enabled = false;
                 slots[i].transform.GetChild(1).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(2).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(3).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(4).GetComponent<Text>().text = "";
             }
         }
     }
@@ -143,11 +154,14 @@ public class InventoryManager : MonoBehaviour
     {
         for (int i = 0; i < slots.Length; i++)
         {
-            if (Vector2.Distance(slots[i].transform.position, Input.mousePosition) <= 64)
+            if (Vector2.Distance(slots[i].transform.position, Input.mousePosition) <= 70)
+            //if (Vector2.Distance(new Vector2(slots[i].transform.position.x, slots[i].transform.position.y) - slots[i].GetComponent<RectTransform>().pivot * slots[i].GetComponent<RectTransform>().rect.height, Input.mousePosition) <= 70)
+
                 return items[i];
         }
+        
 
-        return null;
+            return null;
     }
     #endregion
 }

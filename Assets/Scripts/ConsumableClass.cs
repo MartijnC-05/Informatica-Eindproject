@@ -5,12 +5,15 @@ using UnityEngine;
 public class ConsumableClass : ItemClass
 {
     [Header("Consumable")]
-    public float healthAdded;
+    public int healthAdded;
     //Data specifiek voor Consumable items
 
+    public override void Use(InventoryManager Caller)
+    {
+        Debug.Log("Eat Consumable");
+        Caller.Remove(this);
+        GameManager.instance.player.hitpoint += healthAdded;
+    }
 
-    public override ItemClass GetItem() { return this; }
-    public override ToolClass GetTool() { return null; }
-    public override MiscClass GetMisc() { return null; }
     public override ConsumableClass GetConsumable() { return this; }
 }
