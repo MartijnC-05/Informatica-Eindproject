@@ -1,112 +1,115 @@
 fileFormatVersion: 2
-guid: df1fe90d9d354ee4aba9331c581551b8
+guid: ae05a8457ce9b0a48aac8705bd38fdc6
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 8355201629584672145
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_0
+    second: BamiBacterie_1
   - first:
       213: 1397795967443402549
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_1
+    second: KauloKameel_1
   - first:
       213: 2772069173663973467
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_2
+    second: KauloKameel_2
   - first:
       213: -7745277372166830404
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_3
+    second: CoronaCactus_1
   - first:
       213: -6150129849673976145
     second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_4
   - first:
       213: 8581563366468776710
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_5
+    second: Rock_1
   - first:
       213: 2680412103812687656
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_6
+    second: Rock_2
   - first:
       213: -8918247871101641090
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_7
+    second: Rock_3
   - first:
       213: 6141931088511659017
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_8
+    second: WaterRock_1
   - first:
       213: 6109846808527799051
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_9
+    second: WaterRock_2
   - first:
       213: 8718423645126366128
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_10
+    second: WaterRock_3
   - first:
       213: -7871945188681278024
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_11
+    second: BrightWaterRock_1
   - first:
       213: 8318654400962344807
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_12
+    second: BrightWaterRock_2
   - first:
       213: -817445220339422305
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_13
+    second: BrightWaterRock_3
   - first:
       213: 3098796130792059682
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_14
+    second: BamiBacterie_2
   - first:
       213: -5058852846072170768
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_15
+    second: KauloKameel_3
   - first:
       213: -9088791952850791563
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_16
+    second: KauloKameel_4
+  - first:
+      213: 2345957689287590600
+    second: CoronaCactus_2
   - first:
       213: 5173195612185036702
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_18
+    second: Rock_4
   - first:
       213: 3609921351672370860
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_19
+    second: Rock_5
   - first:
       213: 2119393983306503155
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_20
+    second: Rock_6
   - first:
       213: 2231377228438931240
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_21
+    second: WaterRock_4
   - first:
       213: -4103901306717722797
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_22
+    second: WaterRock_5
   - first:
       213: -3396150501037109871
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_23
+    second: WaterRock_6
   - first:
       213: -8491220073479809704
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_24
+    second: BrightWaterRock_4
   - first:
       213: 2632530061616263450
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_25
+    second: BrightWaterRock_5
   - first:
       213: -8105430689472749936
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_26
+    second: BrightWaterRock_6
   - first:
       213: -5555884645100034294
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_27
+    second: Rock_7
   - first:
       213: -5836684233447812836
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_28
+    second: Rock_8
   - first:
       213: -2799711868008104963
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_29
+    second: Rock_9
   - first:
       213: 4547663991036370472
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_30
+    second: WaterRock_7
   - first:
       213: 8655022934291994022
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_31
+    second: WaterRock_8
   - first:
       213: 3288628324661440461
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_32
+    second: WaterRock_9
   - first:
       213: 6321068110953838839
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_33
+    second: BrightWaterRock_
   - first:
       213: 6048626467959591960
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_34
+    second: BrightWaterRock_8
   - first:
       213: -4827769460706790860
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_35
+    second: BrightWaterRock_9
   - first:
       213: 7032405896842556412
     second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_36
@@ -213,9 +216,6 @@ TextureImporter:
       213: 4891000277647786783
     second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_70
   - first:
-      213: 919446634668562076
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_71
-  - first:
       213: 3797316632203667950
     second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_72
   - first:
@@ -278,321 +278,6 @@ TextureImporter:
   - first:
       213: 6078739513676735485
     second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_92
-  - first:
-      213: -4007688993635518702
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_93
-  - first:
-      213: -7950522310094779049
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_94
-  - first:
-      213: 3276319095704404191
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_95
-  - first:
-      213: 3308812364333473559
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_96
-  - first:
-      213: -1221574447098913321
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_97
-  - first:
-      213: -8376140120551971624
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_98
-  - first:
-      213: -5801368894047771309
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_99
-  - first:
-      213: 6118038926917903406
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_100
-  - first:
-      213: -8154021816300973088
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_101
-  - first:
-      213: 2258695906658354577
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_102
-  - first:
-      213: -802580760817305402
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_103
-  - first:
-      213: 4012941983919190811
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_104
-  - first:
-      213: 8727031486532355076
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_105
-  - first:
-      213: 3827060150237171484
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_106
-  - first:
-      213: -880820129986135904
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_107
-  - first:
-      213: 533933024729475567
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_108
-  - first:
-      213: 1264021434844785304
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_109
-  - first:
-      213: -8133555130688467499
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_110
-  - first:
-      213: 6479655353550767616
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_111
-  - first:
-      213: 8635302496738223749
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_112
-  - first:
-      213: 2948929613179994731
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_113
-  - first:
-      213: 271938855230178248
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_114
-  - first:
-      213: -6959738666470184078
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_115
-  - first:
-      213: 5694346748067344503
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_116
-  - first:
-      213: -5707649361116245589
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_117
-  - first:
-      213: -659409800356327536
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_118
-  - first:
-      213: -9203601836040363741
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_119
-  - first:
-      213: -5412275896101730956
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_120
-  - first:
-      213: -257905569460137189
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_121
-  - first:
-      213: 1845206454561537768
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_122
-  - first:
-      213: 195200871178929636
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_123
-  - first:
-      213: 7159901702289176716
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_124
-  - first:
-      213: -1047699175592502456
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_125
-  - first:
-      213: -4400420055684396566
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_126
-  - first:
-      213: 1953354113536279805
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_127
-  - first:
-      213: -7504627413235069271
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_128
-  - first:
-      213: -8629661055031334490
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_129
-  - first:
-      213: 7321382830358610290
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_130
-  - first:
-      213: -5153128891971522942
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_131
-  - first:
-      213: 7588978349405125746
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_132
-  - first:
-      213: -3870703891472994972
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_133
-  - first:
-      213: 3817712513183569703
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_134
-  - first:
-      213: 564833042301266468
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_135
-  - first:
-      213: 5349728793766510199
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_136
-  - first:
-      213: -4011781369839109601
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_137
-  - first:
-      213: 2548691389801624968
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_138
-  - first:
-      213: 1227643222822361407
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_139
-  - first:
-      213: -7474976731439997020
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_140
-  - first:
-      213: -837908041037456072
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_141
-  - first:
-      213: -4734961170526895243
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_142
-  - first:
-      213: 6183771282975632547
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_143
-  - first:
-      213: -3166823977811955388
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_144
-  - first:
-      213: 6592653722433716640
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_145
-  - first:
-      213: -7630514547732055065
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_146
-  - first:
-      213: 5013617476572709856
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_147
-  - first:
-      213: -1132629585533263164
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_148
-  - first:
-      213: -4372820653465453809
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_149
-  - first:
-      213: -442470683401630230
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_150
-  - first:
-      213: -5134261037499519457
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_151
-  - first:
-      213: 5899165520576259394
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_152
-  - first:
-      213: 4652550078015076900
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_153
-  - first:
-      213: 864416895299462439
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_154
-  - first:
-      213: 4368163869303570725
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_155
-  - first:
-      213: 4799443662700418526
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_156
-  - first:
-      213: -3186208306926079945
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_157
-  - first:
-      213: -6570514358148495376
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_158
-  - first:
-      213: 8714341773770898155
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_159
-  - first:
-      213: -1881224889603506144
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_160
-  - first:
-      213: 5454313522997242156
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_161
-  - first:
-      213: -8791211036375711448
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_162
-  - first:
-      213: -4711543085458540372
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_163
-  - first:
-      213: -8746697831955452130
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_164
-  - first:
-      213: 1638784236075670243
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_165
-  - first:
-      213: -6813889218115701687
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_166
-  - first:
-      213: 6809320399095341609
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_167
-  - first:
-      213: 1366054465705163751
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_168
-  - first:
-      213: 4511765020822430199
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_169
-  - first:
-      213: -5636935598218241335
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_170
-  - first:
-      213: 1281820387293595219
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_171
-  - first:
-      213: 1818211152562525048
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_172
-  - first:
-      213: -4126062646274065576
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_173
-  - first:
-      213: 1425904750249374287
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_174
-  - first:
-      213: -2732350033750337139
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_175
-  - first:
-      213: 4624960613069927363
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_176
-  - first:
-      213: 1153448976375851439
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_177
-  - first:
-      213: -3059314607865220170
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_178
-  - first:
-      213: 8522822173256330060
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_179
-  - first:
-      213: -276551763321623949
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_180
-  - first:
-      213: -7767815002418124860
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_181
-  - first:
-      213: 5056913711650634049
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_182
-  - first:
-      213: 4478992369023602757
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_183
-  - first:
-      213: -1452656198830439097
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_184
-  - first:
-      213: -1790268761718576282
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_185
-  - first:
-      213: 7345404429651418503
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_186
-  - first:
-      213: -7504762951159597794
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_187
-  - first:
-      213: -8097924316808175483
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_188
-  - first:
-      213: -3891828089743420503
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_189
-  - first:
-      213: 237162072675843808
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_190
-  - first:
-      213: 3192065214758629475
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_191
-  - first:
-      213: -3987992252831358251
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_192
-  - first:
-      213: 884828784236548277
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_193
-  - first:
-      213: 3682148214112031248
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_194
-  - first:
-      213: -4312683845002514543
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_195
-  - first:
-      213: -5267501136216065979
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_196
-  - first:
-      213: 2345957689287590600
-    second: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -656,11 +341,11 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 2
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -668,11 +353,11 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 2
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -680,11 +365,11 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
+    textureCompression: 2
+    compressionQuality: 100
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
@@ -694,15 +379,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_0
+      name: BamiBacterie_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 257
+        y: 256
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -715,15 +400,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_1
+      name: KauloKameel_1
       rect:
         serializedVersion: 2
         x: 17
-        y: 257
+        y: 256
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -736,15 +421,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_2
+      name: KauloKameel_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 257
+        x: 33
+        y: 256
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -757,15 +442,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_3
+      name: CoronaCactus_1
       rect:
         serializedVersion: 2
         x: 51
-        y: 257
+        y: 256
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -786,7 +471,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -799,7 +484,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_5
+      name: Rock_1
       rect:
         serializedVersion: 2
         x: 85
@@ -807,7 +492,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -820,7 +505,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_6
+      name: Rock_2
       rect:
         serializedVersion: 2
         x: 102
@@ -828,7 +513,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -841,7 +526,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_7
+      name: Rock_3
       rect:
         serializedVersion: 2
         x: 119
@@ -849,7 +534,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -862,7 +547,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_8
+      name: WaterRock_1
       rect:
         serializedVersion: 2
         x: 136
@@ -870,7 +555,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -883,7 +568,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_9
+      name: WaterRock_2
       rect:
         serializedVersion: 2
         x: 153
@@ -891,7 +576,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -904,7 +589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_10
+      name: WaterRock_3
       rect:
         serializedVersion: 2
         x: 170
@@ -912,7 +597,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -925,7 +610,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_11
+      name: BrightWaterRock_1
       rect:
         serializedVersion: 2
         x: 187
@@ -933,7 +618,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -946,7 +631,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_12
+      name: BrightWaterRock_2
       rect:
         serializedVersion: 2
         x: 204
@@ -954,7 +639,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -967,7 +652,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_13
+      name: BrightWaterRock_3
       rect:
         serializedVersion: 2
         x: 221
@@ -975,7 +660,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -988,7 +673,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_14
+      name: BamiBacterie_2
       rect:
         serializedVersion: 2
         x: 0
@@ -996,7 +681,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1009,7 +694,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_15
+      name: KauloKameel_3
       rect:
         serializedVersion: 2
         x: 17
@@ -1017,7 +702,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1030,15 +715,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_16
+      name: KauloKameel_4
       rect:
         serializedVersion: 2
-        x: 34
+        x: 33
         y: 240
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1051,7 +736,28 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_18
+      name: CoronaCactus_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24518c6148e8020800000000000000
+      internalID: 2345957689287590600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_4
       rect:
         serializedVersion: 2
         x: 85
@@ -1059,7 +765,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1072,7 +778,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_19
+      name: Rock_5
       rect:
         serializedVersion: 2
         x: 102
@@ -1080,7 +786,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1093,7 +799,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_20
+      name: Rock_6
       rect:
         serializedVersion: 2
         x: 119
@@ -1101,7 +807,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1114,7 +820,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_21
+      name: WaterRock_4
       rect:
         serializedVersion: 2
         x: 136
@@ -1122,7 +828,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1135,7 +841,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_22
+      name: WaterRock_5
       rect:
         serializedVersion: 2
         x: 153
@@ -1143,7 +849,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1156,7 +862,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_23
+      name: WaterRock_6
       rect:
         serializedVersion: 2
         x: 170
@@ -1164,7 +870,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1177,7 +883,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_24
+      name: BrightWaterRock_4
       rect:
         serializedVersion: 2
         x: 187
@@ -1185,7 +891,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1198,7 +904,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_25
+      name: BrightWaterRock_5
       rect:
         serializedVersion: 2
         x: 204
@@ -1206,7 +912,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1219,7 +925,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_26
+      name: BrightWaterRock_6
       rect:
         serializedVersion: 2
         x: 221
@@ -1227,7 +933,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1240,7 +946,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_27
+      name: Rock_7
       rect:
         serializedVersion: 2
         x: 85
@@ -1248,7 +954,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1261,7 +967,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_28
+      name: Rock_8
       rect:
         serializedVersion: 2
         x: 102
@@ -1269,7 +975,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1282,7 +988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_29
+      name: Rock_9
       rect:
         serializedVersion: 2
         x: 119
@@ -1290,7 +996,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1303,7 +1009,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_30
+      name: WaterRock_7
       rect:
         serializedVersion: 2
         x: 136
@@ -1311,7 +1017,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1324,7 +1030,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_31
+      name: WaterRock_8
       rect:
         serializedVersion: 2
         x: 153
@@ -1332,7 +1038,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1345,7 +1051,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_32
+      name: WaterRock_9
       rect:
         serializedVersion: 2
         x: 170
@@ -1353,7 +1059,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1366,7 +1072,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_33
+      name: BrightWaterRock_
       rect:
         serializedVersion: 2
         x: 187
@@ -1374,7 +1080,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1387,7 +1093,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_34
+      name: BrightWaterRock_8
       rect:
         serializedVersion: 2
         x: 204
@@ -1395,7 +1101,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1408,7 +1114,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_35
+      name: BrightWaterRock_9
       rect:
         serializedVersion: 2
         x: 221
@@ -1416,7 +1122,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1437,7 +1143,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1458,7 +1164,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1479,7 +1185,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1500,7 +1206,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1521,7 +1227,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1542,7 +1248,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1563,7 +1269,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1584,7 +1290,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1605,7 +1311,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1626,7 +1332,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1647,7 +1353,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1668,7 +1374,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1689,7 +1395,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1710,7 +1416,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1731,7 +1437,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1752,7 +1458,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1773,7 +1479,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1794,7 +1500,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1815,7 +1521,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1836,7 +1542,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1857,7 +1563,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1878,7 +1584,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1899,7 +1605,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1920,7 +1626,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1941,7 +1647,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1962,7 +1668,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1983,7 +1689,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2004,7 +1710,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2025,7 +1731,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2046,7 +1752,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2067,7 +1773,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2088,7 +1794,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2109,7 +1815,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2130,7 +1836,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2151,7 +1857,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2159,27 +1865,6 @@ TextureImporter:
       bones: []
       spriteID: f138881c6d250e340800000000000000
       internalID: 4891000277647786783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_71
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 155
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c961951c7d782cc00800000000000000
-      internalID: 919446634668562076
       vertices: []
       indices: 
       edges: []
@@ -2193,7 +1878,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2214,7 +1899,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2235,7 +1920,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2256,7 +1941,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2277,7 +1962,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2298,7 +1983,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2319,7 +2004,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2340,7 +2025,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2361,7 +2046,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2382,7 +2067,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2403,7 +2088,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2424,7 +2109,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2445,7 +2130,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2466,7 +2151,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2487,7 +2172,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2508,7 +2193,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2529,7 +2214,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2550,7 +2235,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2571,7 +2256,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2592,7 +2277,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2613,7 +2298,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2621,2211 +2306,6 @@ TextureImporter:
       bones: []
       spriteID: df325d291650c5450800000000000000
       internalID: 6078739513676735485
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_93
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 217bc1c0814d168c0800000000000000
-      internalID: -4007688993635518702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_94
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75d8bf725121aa190800000000000000
-      internalID: -7950522310094779049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_95
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fd04a4edbd2d77d20800000000000000
-      internalID: 3276319095704404191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_96
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71f548480534bed20800000000000000
-      internalID: 3308812364333473559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_97
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7dd99f533881c0fe0800000000000000
-      internalID: -1221574447098913321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_98
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d42a9560f8f1cb80800000000000000
-      internalID: -8376140120551971624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_99
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35528435ab56d7fa0800000000000000
-      internalID: -5801368894047771309
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_100
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2424f04df3a7e450800000000000000
-      internalID: 6118038926917903406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_101
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e358942c5817de80800000000000000
-      internalID: -8154021816300973088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_102
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1950004c5ff785f10800000000000000
-      internalID: 2258695906658354577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_103
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c8fbefdc09acd4f0800000000000000
-      internalID: -802580760817305402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_104
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b1331cf0975d0b730800000000000000
-      internalID: 4012941983919190811
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_105
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 121
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 404096236e4ac1970800000000000000
-      internalID: 8727031486532355076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_106
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1f80f41ee27c1530800000000000000
-      internalID: 3827060150237171484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_107
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a8b92132c2b6c3f0800000000000000
-      internalID: -880820129986135904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_108
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe9a9d0d149e86700800000000000000
-      internalID: 533933024729475567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_109
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 89a27644cc4ba8110800000000000000
-      internalID: 1264021434844785304
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_110
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dd024ab3becf1f80800000000000000
-      internalID: -8133555130688467499
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_111
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0060a5f963c5ce950800000000000000
-      internalID: 6479655353550767616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_112
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58620267ed1c6d770800000000000000
-      internalID: 8635302496738223749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_113
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b62493debd3bce820800000000000000
-      internalID: 2948929613179994731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_114
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c30f92b2fe16c300800000000000000
-      internalID: 271938855230178248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_115
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27b6e7f9e8a0a6f90800000000000000
-      internalID: -6959738666470184078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_116
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 770747a8232660f40800000000000000
-      internalID: 5694346748067344503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_117
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba15e20852b5ac0b0800000000000000
-      internalID: -5707649361116245589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_118
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 104
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09f8950c74e49d6f0800000000000000
-      internalID: -659409800356327536
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_119
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3216ea494ec364080800000000000000
-      internalID: -9203601836040363741
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_120
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 475827a7fbbb3e4b0800000000000000
-      internalID: -5412275896101730956
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_121
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b13dbb2404cbb6cf0800000000000000
-      internalID: -257905569460137189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_122
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8eef56d7e7d7b9910800000000000000
-      internalID: 1845206454561537768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_123
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e5877a782e75b200800000000000000
-      internalID: 195200871178929636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_124
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8839a7d9a41d5360800000000000000
-      internalID: 7159901702289176716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_125
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84bd6579623d571f0800000000000000
-      internalID: -1047699175592502456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_126
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae94d6616419ee2c0800000000000000
-      internalID: -4400420055684396566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_127
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df4c0e98735bb1b10800000000000000
-      internalID: 1953354113536279805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_128
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ae077ef0253ad790800000000000000
-      internalID: -7504627413235069271
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_129
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a9a5da0ef84d3880800000000000000
-      internalID: -8629661055031334490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_130
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2714b24d4e6ca9560800000000000000
-      internalID: 7321382830358610290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_131
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 87
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28e2c3043986c78b0800000000000000
-      internalID: -5153128891971522942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_132
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27c3c64c997715960800000000000000
-      internalID: 7588978349405125746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_133
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46da70e815f784ac0800000000000000
-      internalID: -3870703891472994972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_134
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 727dedabd4d3bf430800000000000000
-      internalID: 3817712513183569703
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_135
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42a25cbc8a0b6d700800000000000000
-      internalID: 564833042301266468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_136
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77eb12d6efd0e3a40800000000000000
-      internalID: 5349728793766510199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_137
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1ab536791a4358c0800000000000000
-      internalID: -4011781369839109601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_138
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 885f833c055ce5320800000000000000
-      internalID: 2548691389801624968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_139
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f391e3fb107790110800000000000000
-      internalID: 1227643222822361407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_140
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4af5532544c834890800000000000000
-      internalID: -7474976731439997020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_141
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83dd48b73172f54f0800000000000000
-      internalID: -837908041037456072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_142
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5730a7df6e90a4eb0800000000000000
-      internalID: -4734961170526895243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_143
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ac2606083b21d550800000000000000
-      internalID: 6183771282975632547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_144
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 70
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4413458ee5e2d04d0800000000000000
-      internalID: -3166823977811955388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_145
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a181d491afcd7b50800000000000000
-      internalID: 6592653722433716640
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_146
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ebfaf07277fa1690800000000000000
-      internalID: -7630514547732055065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_147
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e38eca1882f39540800000000000000
-      internalID: 5013617476572709856
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_148
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c2213494671840f0800000000000000
-      internalID: -1132629585533263164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_149
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f0b33bba8ce9053c0800000000000000
-      internalID: -4372820653465453809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_150
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aed425cf1470cd9f0800000000000000
-      internalID: -442470683401630230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_151
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1e66b3f9c07fb8b0800000000000000
-      internalID: -5134261037499519457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_152
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2452e2d29cb0ed150800000000000000
-      internalID: 5899165520576259394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_153
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42afdcb45ad219040800000000000000
-      internalID: 4652550078015076900
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_154
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 725ab2e16960ffb00800000000000000
-      internalID: 864416895299462439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_155
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 521098645e5de9c30800000000000000
-      internalID: 4368163869303570725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_156
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed512ca259c0b9240800000000000000
-      internalID: 4799443662700418526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_157
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 53
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 730b5451d6058c3d0800000000000000
-      internalID: -3186208306926079945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_158
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f784fad008d0d4a0800000000000000
-      internalID: -6570514358148495376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_159
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bea36f43caf8fe870800000000000000
-      internalID: 8714341773770898155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_160
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0204f881eeb84e5e0800000000000000
-      internalID: -1881224889603506144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_161
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c292cdf304d91bb40800000000000000
-      internalID: 5454313522997242156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_162
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8210557e3285ff580800000000000000
-      internalID: -8791211036375711448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_163
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca8bb4fc68c3d9eb0800000000000000
-      internalID: -4711543085458540372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_164
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1fad90f9ac7d9680800000000000000
-      internalID: -8746697831955452130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_165
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3eadcce74912eb610800000000000000
-      internalID: 1638784236075670243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_166
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 944795f8bd33071a0800000000000000
-      internalID: -6813889218115701687
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_167
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92226ed53d09f7e50800000000000000
-      internalID: 6809320399095341609
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_168
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7eb31348c4335f210800000000000000
-      internalID: 1366054465705163751
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_169
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f16720d1620d9e30800000000000000
-      internalID: 4511765020822430199
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_170
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 36
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9ca927e60f495c1b0800000000000000
-      internalID: -5636935598218241335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_171
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3560d72d9d0f9c110800000000000000
-      internalID: 1281820387293595219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_172
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8739423f8659b3910800000000000000
-      internalID: 1818211152562525048
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_173
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 85b73df42e74db6c0800000000000000
-      internalID: -4126062646274065576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_174
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f42f72ac0d4d9c310800000000000000
-      internalID: 1425904750249374287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_175
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d89d844fe1eb41ad0800000000000000
-      internalID: -2732350033750337139
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_176
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c3b43a6c292f2040800000000000000
-      internalID: 4624960613069927363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_177
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa9ab679bbfd10010800000000000000
-      internalID: 1153448976375851439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_178
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b3b706b2912b85d0800000000000000
-      internalID: -3059314607865220170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_179
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4b24c85c95274670800000000000000
-      internalID: 8522822173256330060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_180
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37ae431f2ad792cf0800000000000000
-      internalID: -276551763321623949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_181
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4c7eae3396d233490800000000000000
-      internalID: -7767815002418124860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_182
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 149fcb26a34cd2640800000000000000
-      internalID: 5056913711650634049
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_183
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 19
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 540565334d3982e30800000000000000
-      internalID: 4478992369023602757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_184
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 74541f732e027dbe0800000000000000
-      internalID: -1452656198830439097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_185
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66b2945eb00b727e0800000000000000
-      internalID: -1790268761718576282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_186
-      rect:
-        serializedVersion: 2
-        x: 34
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 78d14f0496e10f560800000000000000
-      internalID: 7345404429651418503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_187
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e15be9c9bd9b9d790800000000000000
-      internalID: -7504762951159597794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_188
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 580a6ae0db46e9f80800000000000000
-      internalID: -8097924316808175483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_189
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a3d4ffd8f27df9c0800000000000000
-      internalID: -3891828089743420503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_190
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0eef90806a19a4300800000000000000
-      internalID: 237162072675843808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_191
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 360b199866e7c4c20800000000000000
-      internalID: 3192065214758629475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_192
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d22af2ec2ec7a8c0800000000000000
-      internalID: -3987992252831358251
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_193
-      rect:
-        serializedVersion: 2
-        x: 153
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b0d57b571b874c00800000000000000
-      internalID: 884828784236548277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_194
-      rect:
-        serializedVersion: 2
-        x: 170
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0129c78ba4e991330800000000000000
-      internalID: 3682148214112031248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_195
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19f2f0e74e44624c0800000000000000
-      internalID: -4312683845002514543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_196
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 2
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 548ffd100a316e6b0800000000000000
-      internalID: -5267501136216065979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Kaulo Kameel, Bami Bacterie en Corona Cactus and more(3)_17
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 241
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c24518c6148e8020800000000000000
-      internalID: 2345957689287590600
       vertices: []
       indices: 
       edges: []

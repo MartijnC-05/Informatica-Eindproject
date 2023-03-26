@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
+    //[SerializeField] public ItemClass Ass;
+
     public static GameManager instance;
     private void Awake()
     {
@@ -21,7 +23,14 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    
+ //   public void Update()
+ //   {
+  //      if (Input.GetKeyDown(KeyCode.K))
+  //      {
+  //          InventoryManager.Add(Ass);
+    //    }
+//
+    //}
 
     //Resources
     public List<Sprite> playerSprites;
@@ -51,6 +60,7 @@ public class GameManager : MonoBehaviour
         floatingTextManager.Show(msg,fontsize,color,position,motion,duration);
     }
 
+    #region saving and loading
     public void SaveState()
     {
         string s = "";
@@ -80,4 +90,5 @@ public class GameManager : MonoBehaviour
 
         Debug.Log("LoadState");
     }
+    #endregion saving and loading
 }
