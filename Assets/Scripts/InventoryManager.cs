@@ -42,7 +42,10 @@ public class InventoryManager : MonoBehaviour
         if (Input.GetMouseButtonDown(0)) // we clicked
         {
             //item gebruiken
-            GetClosestSlot().GetItem().Use(this);
+            if (GetClosestSlot() != null)
+            { 
+                GetClosestSlot().GetItem().Use(this); 
+            }
             /* (GetClosestSlot() != null)
             {
                 Debug.Log(GetClosestSlot().GetItem());
