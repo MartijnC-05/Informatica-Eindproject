@@ -42,7 +42,8 @@ public class InventoryManager : MonoBehaviour
         if (Input.GetMouseButtonDown(0)) // we clicked
         {
             //item gebruiken
-            GetClosestSlot().GetItem().Use(this);
+            //GetClosestSlot().GetItem().Use(this);
+            Debug.Log(GetClosestSlot().GetItem());
         }
     }
 
@@ -152,16 +153,19 @@ public class InventoryManager : MonoBehaviour
     #region interacting with stuff
     private SlotClass GetClosestSlot()
     {
+        //Debug.Log(Input.mousePosition);
         for (int i = 0; i < slots.Length; i++)
         {
-            if (Vector2.Distance(slots[i].transform.position, Input.mousePosition) <= 70)
+            //Debug.Log(Vector2.Distance(slots[i].transform.position, Input.mousePosition));
+            if (Vector2.Distance(slots[i].transform.position, Input.mousePosition) <= 41)
+                return items[i];
             //if (Vector2.Distance(new Vector2(slots[i].transform.position.x, slots[i].transform.position.y) - slots[i].GetComponent<RectTransform>().pivot * slots[i].GetComponent<RectTransform>().rect.height, Input.mousePosition) <= 70)
 
-                return items[i];
+
         }
         
 
-            return null;
+        return null;
     }
     #endregion
 }
