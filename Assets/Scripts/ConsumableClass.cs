@@ -10,9 +10,16 @@ public class ConsumableClass : ItemClass
 
     public override void Use(InventoryManager Caller)
     {
-        Debug.Log("Eat Consumable");
-        Caller.Remove(this);
-        GameManager.instance.player.hitpoint += healthAdded;
+        if (GameManager.instance.player.hitpoint == 10)
+        {
+            Debug.Log("Health is full");            
+        }
+        else
+        {
+            Debug.Log("Eat Consumable");
+            Caller.Remove(this);
+            GameManager.instance.player.hitpoint += healthAdded;
+        }
     }
 
     public override ConsumableClass GetConsumable() { return this; }

@@ -42,8 +42,15 @@ public class InventoryManager : MonoBehaviour
         if (Input.GetMouseButtonDown(0)) // we clicked
         {
             //item gebruiken
-            //GetClosestSlot().GetItem().Use(this);
-            Debug.Log(GetClosestSlot().GetItem());
+            GetClosestSlot().GetItem().Use(this);
+            /* (GetClosestSlot() != null)
+            {
+                Debug.Log(GetClosestSlot().GetItem());
+            }
+            else
+            {
+                Debug.Log("no item");
+            }*/
         }
     }
 
@@ -153,19 +160,32 @@ public class InventoryManager : MonoBehaviour
     #region interacting with stuff
     private SlotClass GetClosestSlot()
     {
-        //Debug.Log(Input.mousePosition);
+        SlotClass closestSlot = null;
+        float closestDistance = float.MaxValue;
+
         for (int i = 0; i < slots.Length; i++)
         {
-            //Debug.Log(Vector2.Distance(slots[i].transform.position, Input.mousePosition));
-            if (Vector2.Distance(slots[i].transform.position, Input.mousePosition) <= 41)
-                return items[i];
-            //if (Vector2.Distance(new Vector2(slots[i].transform.position.x, slots[i].transform.position.y) - slots[i].GetComponent<RectTransform>().pivot * slots[i].GetComponent<RectTransform>().rect.height, Input.mousePosition) <= 70)
+            RectTransform rectTransform = slots[i].GetComponent<RectTransform>();
+            Vector3[] corners = new Vector3[4];
+            rectTransform.GetWorldCorners(corners);
 
-
+            Rect slotRect = new Rect(corners[0].x, corners[0].y, rectTransform.rect.width, rectTransform.rect.height);
+            if (slotRect.Contains(Input.mousePosition))
+            {
+                float distance = Vector2.Distance(slots[i].transform.position, Input.mousePosition);
+                if (distance < closestDistance)
+                {
+                    closestDistance = distance;
+                    closestSlot = items[i];
+                }
+            }
         }
-        
 
-        return null;
+        return closestSlot;
     }
     #endregion
 }
+
+//Debug.Log(Vector2.Distance(slots[i].transform.position, Input.mousePosition));
+
+//if (Vector2.Distance(new Vector2(slots[i].transform.position.x, slots[i].transform.position.y) - slots[i].GetComponent<RectTransform>().pivot * slots[i].GetComponent<RectTransform>().rect.height, Input.mousePosition) <= 70)
