@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ACB9CEFB-EC44-98DC-1D2B-8921F694D71E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/dialogueManager.cs">
+    <Files>
+      <File FileName="Assets/DialogueTrigger.cs" Line="21" Column="18" />
+      <File FileName="Assets/dialogueManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="caea3652-1282-4f61-a380-3f9d2a17b33f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
