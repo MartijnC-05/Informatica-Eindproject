@@ -23,14 +23,6 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
- //   public void Update()
- //   {
-  //      if (Input.GetKeyDown(KeyCode.K))
-  //      {
-  //          InventoryManager.Add(Ass);
-    //    }
-//
-    //}
 
     //Resources
     public List<Sprite> playerSprites;

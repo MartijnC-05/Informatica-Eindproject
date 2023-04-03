@@ -7,7 +7,7 @@ public class InventoryManager : MonoBehaviour
 {
     [SerializeField] private GameObject slotHolder;
 
-    
+    public static InventoryManager instance;
 
     //Item dat wordt toegevoegd
     [SerializeField] private ItemClass itemToAdd;
@@ -21,13 +21,19 @@ public class InventoryManager : MonoBehaviour
 
     private GameObject[] slots;
 
+    private void Awake()
+    {
+        instance = this;
+
+    }
+
     //Kan dus andere functie zijn als er bijvoorbeeld wordt gecolide
     private void Start()
     {
         slots = new GameObject[slotHolder.transform.childCount];
         //items = new SlotClass[slots.Length];
 
-        
+
         //set all the slots
         for (int i = 0; i < slotHolder.transform.childCount; i++)
             slots[i] = slotHolder.transform.GetChild(i).gameObject;

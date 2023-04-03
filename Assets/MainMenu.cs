@@ -8,20 +8,20 @@ public class MainMenu : MonoBehaviour
 {
     //[SerializeField] Slider volumeSlider;
 
-    /*void Start()
+    void Start()
     {
         if (!PlayerPrefs.HasKey("musicVolume"))
         {
             PlayerPrefs.SetFloat("musicVolume", 1);
-            SoundManager.Load();
+            SoundManager.instance.Load();
         }
 
         else
         {
-            Load();
+            SoundManager.instance.Load();
         }
-        volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
-    }*/
+        //volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
+    }
 
     public void PlayGame()
     {
