@@ -12,11 +12,13 @@ public class ConsumableClass : ItemClass
     {
         if (GameManager.instance.player.hitpoint == 10)
         {
-            Debug.Log("Health is full");            
+            Debug.Log("Health is full");
+            TextManager.instance.myText = "Health is full";
         }
         else
         {
             Debug.Log("Eat Consumable");
+            TextManager.instance.myText = "Eat Consumable";
             Caller.Remove(this);
             GameManager.instance.player.hitpoint += healthAdded;
         }

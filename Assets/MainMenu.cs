@@ -10,7 +10,7 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
-        if (!PlayerPrefs.HasKey("musicVolume"))
+        /*if (!PlayerPrefs.HasKey("musicVolume"))
         {
             PlayerPrefs.SetFloat("musicVolume", 1);
             SoundManager.instance.Load();
@@ -19,7 +19,7 @@ public class MainMenu : MonoBehaviour
         else
         {
             SoundManager.instance.Load();
-        }
+        }*/
         //volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
     }
 

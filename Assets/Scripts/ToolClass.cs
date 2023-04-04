@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 [CreateAssetMenu(fileName = "new Tool Class", menuName = "Item/Tool")]
 public class ToolClass : ItemClass
@@ -21,7 +22,8 @@ public class ToolClass : ItemClass
     public override void Use(InventoryManager Caller)
     {
         Debug.Log("Damage: " + damagePoint);
-        //GameManager.instance.ShowText("Damage: " + damagePoint, 25, Color.yellow, Input.mousePosition, Vector3.up * 25, 1.5f);
+        TextManager.instance.myText = "Damage: " + damagePoint.ToString();
+        //GameManager.instance.ShowText("Damage: " + damagePoint, 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
     }
 
     public override ToolClass GetTool() { return this; }

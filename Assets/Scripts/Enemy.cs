@@ -28,10 +28,30 @@ public class Enemy : Mover
         hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
     }
 
+    public static Enemy instance;
+
+    private void Awake()
+    {
+        instance = this;
+    }
+
+    public void SuperStart()
+    {
+        playerTransform = GameManager.instance.player.transform;
+        startingPosition = transform.position;
+        hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
+    }
+    /*private void Awaken()
+    {
+        playerTransform = GameManager.instance.player.transform;
+        startingPosition = transform.position;
+        hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
+    }*/
+
     private void FixedUpdate()
     {
         //Player in range?
-        if(Vector3.Distance(playerTransform.position, startingPosition) < chaseLength)
+        if(Vector3.Distance(playerTransform.position, startingPosition) < chaseLength) //wat zorgt voor de error???
         {
             if (Vector3.Distance(playerTransform.position, startingPosition) < triggerLength)
                 chasing = true;

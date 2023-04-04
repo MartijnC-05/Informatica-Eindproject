@@ -5713,8 +5713,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 87905160}
   m_HandleRect: {fileID: 87905159}
   m_Direction: 2
-  m_Value: 0.9999999
-  m_Size: 0.64189184
+  m_Value: 1.0000001
+  m_Size: 0.6418919
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -21873,7 +21873,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: -34464507
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!114 &1935694723
 MonoBehaviour:
@@ -21882,7 +21882,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1935694721}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
   m_Name: 
@@ -21948,6 +21948,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad041c4e49c4cca4d91e9d6487c9608e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myText: Heee
+  textDuration: 5
 --- !u!1 &1977010351
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Portal : Collidable
 {
@@ -11,9 +12,11 @@ public class Portal : Collidable
         if (coll.name == "player")
         {
             //teleport the player
-            GameManager.instance.SaveState();
+            GameManager.instance.SaveState();            
             string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];
-            UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
+            //UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
+            SceneManager.LoadScene(sceneName);
+            Enemy.instance.SuperStart();
         }
     }
 }
