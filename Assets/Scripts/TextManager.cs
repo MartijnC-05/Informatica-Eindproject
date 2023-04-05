@@ -7,6 +7,8 @@ public class TextManager : MonoBehaviour
 {
     private GameObject[] texts;
 
+    private Animator anim;
+
     public static TextManager instance;
 
     private void Awake()
@@ -28,6 +30,7 @@ public class TextManager : MonoBehaviour
 
     private void Start()
     {
+        anim = GetComponent<Animator>();
         textComponent = GetComponent<Text>();
         textComponent.text = "";
     }
@@ -53,6 +56,8 @@ public class TextManager : MonoBehaviour
         myText = "";
         isTextScheduledToClear = false;
     }
+
+    
 }
 
 

@@ -21,6 +21,7 @@ public class ToolClass : ItemClass
 
     public override void Use(InventoryManager Caller)
     {
+        NotificationAnim.instance.Pling();
         Debug.Log("Damage: " + damagePoint);
         TextManager.instance.myText = "Damage: " + damagePoint.ToString();
         //GameManager.instance.ShowText("Damage: " + damagePoint, 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
