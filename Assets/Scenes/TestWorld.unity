@@ -5970,8 +5970,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 356658292}
   m_HandleRect: {fileID: 356658291}
   m_Direction: 2
-  m_Value: 0.9999999
-  m_Size: 0.64189184
+  m_Value: 1
+  m_Size: 0.6418919
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -6954,7 +6954,7 @@ GameObject:
   - component: {fileID: 1785395745}
   - component: {fileID: 1785395748}
   m_Layer: 0
-  m_Name: Cactus sword
+  m_Name: Item
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
