@@ -794,7 +794,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 592554823}
   m_HandleRect: {fileID: 592554822}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1
   m_Size: 0.6418919
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -113444,7 +113444,7 @@ MonoBehaviour:
     minNormalAngle: 0
     maxNormalAngle: 0
   sceneNames:
-  - TestWorld
+  - Scene3
 --- !u!61 &1795777736
 BoxCollider2D:
   m_ObjectHideFlags: 0
