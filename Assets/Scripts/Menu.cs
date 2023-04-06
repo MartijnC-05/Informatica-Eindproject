@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Menu : CharacterMenu
 {
+    public string[] sceneNames;
     private Animator anim;
 
     private void Start()
@@ -30,5 +32,12 @@ public class Menu : CharacterMenu
                     open=false;
             }
         }        
+    }
+
+    public void BackToMainMenu()
+    {
+        GameManager.instance.SaveState();
+        string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];
+        SceneManager.LoadScene(sceneName);
     }
 }
