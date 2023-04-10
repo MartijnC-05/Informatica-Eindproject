@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 //using static SoundManager;
 
@@ -8,7 +9,14 @@ public class MainMenu : MonoBehaviour
 {
     //[SerializeField] Slider volumeSlider;
 
-    void Start()
+    public static MainMenu instance;
+    private void Awake()
+    {
+        instance = this;
+    }
+
+
+        void Start()
     {
         /*if (!PlayerPrefs.HasKey("musicVolume"))
         {
@@ -33,7 +41,6 @@ public class MainMenu : MonoBehaviour
         Debug.Log ("QUIT");
         Application.Quit();
     }
-
 
 
     // public void NewGame()

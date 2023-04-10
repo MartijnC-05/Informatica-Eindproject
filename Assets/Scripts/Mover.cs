@@ -10,6 +10,21 @@ public abstract class Mover : Fighter
     protected float ySpeed = 0.75f;
     protected float xSpeed = 1.0f;
 
+    protected void Update()
+    {
+        if (DIEDIEDIE.instance.Died == false)
+        {
+            ySpeed = 0.75f;
+            xSpeed = 1.0f;
+        }
+        else
+        {
+            ySpeed = 0;
+            xSpeed = 0;
+        }
+    }
+
+
     protected virtual void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();

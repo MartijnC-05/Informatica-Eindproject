@@ -84,8 +84,8 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
-  damage: 1
-  pushForce: 0.5
+  damage: 5
+  pushForce: 2
 --- !u!1 &1900040164318348460
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitpoint: 1
-  maxHitpoint: 2
+  maxHitpoint: 1
   pushRecoverySpeed: 0.2
   xpValue: 1
   triggerLength: 0.2

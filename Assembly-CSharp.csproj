@@ -65,6 +65,7 @@
      <Compile Include="Assets\Scripts\OpenNote.cs" />
      <Compile Include="Assets\Scripts\DataPersistance\Data\GameData.cs" />
      <Compile Include="Assets\Scripts\HudButton.cs" />
+     <Compile Include="Assets\Scripts\OxygenController.cs" />
      <Compile Include="Assets\DialogueTrigger.cs" />
      <Compile Include="Assets\Scripts\FloatingText.cs" />
      <Compile Include="Assets\npc.cs" />
@@ -77,6 +78,7 @@
      <Compile Include="Assets\Scripts\TextClass.cs" />
      <Compile Include="Assets\Scripts\CameraMotor.cs" />
      <Compile Include="Assets\Scripts\Weapon.cs" />
+     <Compile Include="Assets\Scripts\Water.cs" />
      <Compile Include="Assets\Scripts\Collidable.cs" />
      <Compile Include="Assets\Scripts\ConsumableClass.cs" />
      <Compile Include="Assets\Scripts\MiscClass.cs" />

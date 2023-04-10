@@ -4,9 +4,15 @@ using UnityEngine;
 
 public class Fighter : MonoBehaviour
 {
+    public static Fighter instance;
+    private void Awake()
+    {
+        instance = this;
+    }
+
     //public fields
-    public int hitpoint = 10;
-    public int maxHitpoint = 10;
+    public int hitpoint = 100;
+    public int maxHitpoint = 100;
     public float pushRecoverySpeed = 0.2f;
 
     //Immunity zodat je niet instant dood gaat :)
@@ -34,8 +40,9 @@ public class Fighter : MonoBehaviour
         }
     }
 
-    protected virtual void Death()
+    public virtual void Death()
     {
-
+        DIEDIEDIE.instance.Died = true;
+        Audio.instance.play();
     }
 }

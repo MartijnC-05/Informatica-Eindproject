@@ -124,7 +124,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitpoint: 1
-  maxHitpoint: 2
+  maxHitpoint: 1
   pushRecoverySpeed: 0.1
   xpValue: 1
   triggerLength: 0.2
@@ -227,5 +227,5 @@ MonoBehaviour:
     maxDepth: 0
     minNormalAngle: 0
     maxNormalAngle: 0
-  damage: 1
+  damage: 5
   pushForce: 2

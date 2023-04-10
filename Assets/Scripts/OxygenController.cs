@@ -1,3 +1,6 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Tilemaps;
@@ -37,6 +40,13 @@ public class OxygenController : MonoBehaviour
         // Update the oxygen percentage text
         float oxygenPercentage = currentOxygen / maxOxygen * 100f;
         oxygenPercentageText.text = oxygenPercentage.ToString("F0") + "%";
+
+
+
+        if (currentOxygen <= 0f)
+        {
+            Fighter.instance.Death();    
+        }
     }
 
     private bool IsUnderwater()
