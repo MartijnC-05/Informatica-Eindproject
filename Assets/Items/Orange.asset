@@ -17,4 +17,4 @@ MonoBehaviour:
   dmg: 
   itemIcon: {fileID: 6200454255762409319, guid: ae05a8457ce9b0a48aac8705bd38fdc6, type: 3}
   isStackable: 1
-  healthAdded: 1
+  healthAdded: 10

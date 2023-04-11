@@ -29,12 +29,14 @@ public class Weapon : Collidable
     {
         base.Update();
         //Je mag alleen swingen als je cooldown geweest is
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if(Time.time - lastSwing > cooldown)
+        if (DIEDIEDIE.instance.Died == false) { 
+            if (Input.GetKeyDown(KeyCode.Space))
             {
-                lastSwing = Time.time;
-                Swing();
+                if (Time.time - lastSwing > cooldown)
+                {
+                    lastSwing = Time.time;
+                    Swing();
+                }
             }
         }
     }

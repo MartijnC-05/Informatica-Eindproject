@@ -93,7 +93,7 @@ public class Enemy : Mover
         }
     }
 
-    protected override void Death()
+    public override void Death()
     {
         Destroy(gameObject);
         GameManager.instance.experience += xpValue;
