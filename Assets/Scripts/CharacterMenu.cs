@@ -25,6 +25,7 @@ public class CharacterMenu : MonoBehaviour, IDataPersistance
         if (GameManager.instance.player.hitpoint <= 0)
         {
             GameManager.instance.player.hitpoint = 0;
+            Fighter.instance.Death();
         }
         health = GameManager.instance.player.hitpoint;
         healthText.text = health.ToString() + "%";

@@ -9,6 +9,8 @@ public abstract class Mover : Fighter
     protected RaycastHit2D hit;
     protected float ySpeed = 0.75f;
     protected float xSpeed = 1.0f;
+    protected Animator anim;
+
 
     protected void Update()
     {
@@ -28,6 +30,7 @@ public abstract class Mover : Fighter
     protected virtual void Start()
     {
         boxCollider = GetComponent<BoxCollider2D>();
+        anim = GetComponent<Animator>();
     }
 
     protected virtual void UpdateMotor(Vector3 input)
@@ -37,9 +40,20 @@ public abstract class Mover : Fighter
 
         // Sprite swap
         if (moveDelta.x > 0)
+        {
             transform.localScale = Vector3.one;
+            //anim.SetBool("WalkingRight", true);
+        }
         else if (moveDelta.x < 0)
+        {
             transform.localScale = new Vector3(-1, 1, 0);
+            //anim.SetBool("WalkingLeft", true);
+        }
+        else
+        {
+            //anim.SetBool("WalkingLeft", false);
+            //anim.SetBool("WalkingRight", false);
+        }
 
         //Add push
         moveDelta += pushDirection;

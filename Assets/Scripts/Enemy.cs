@@ -28,12 +28,12 @@ public class Enemy : Mover
         hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
     }
 
-    public static Enemy instance;
+    /*public static Enemy instance;
 
     private void Awake()
     {
         instance = this;
-    }
+    }*/
 
     public void SuperStart()
     {

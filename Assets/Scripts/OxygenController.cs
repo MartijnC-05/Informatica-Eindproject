@@ -45,7 +45,7 @@ public class OxygenController : MonoBehaviour
 
         if (currentOxygen <= 0f)
         {
-            Fighter.instance.Death();    
+            GameManager.instance.player.hitpoint -= 1;
         }
     }
 

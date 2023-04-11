@@ -5,8 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class Menu : CharacterMenu
 {
-    public string[] sceneNames;
     private Animator anim;
+    public string thisScene;
+
 
     private void Start()
     {
@@ -18,26 +19,29 @@ public class Menu : CharacterMenu
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (DIEDIEDIE.instance.Died == false)
         {
-            if (open == false)
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                anim.SetTrigger("Show");
-                open = true;
-                UpdateMenu();
+                if (open == false)
+                {
+                    anim.SetTrigger("Show");
+                    open = true;
+                    UpdateMenu();
+                }
+                else if (open == true)
+                {
+                    anim.SetTrigger("Hide");
+                    open = false;
+                }
             }
-            else if (open == true)
-            {
-                anim.SetTrigger("Hide");
-                    open=false;
-            }
-        }        
+        }
     }
 
     public void BackToMainMenu()
     {
         GameManager.instance.SaveState();
-        string sceneName = sceneNames[Random.Range(0, sceneNames.Length)];
-        SceneManager.LoadScene(sceneName);
+        Portal.instance.currentScene = thisScene;
+        SceneManager.LoadScene("Menu");
     }
 }

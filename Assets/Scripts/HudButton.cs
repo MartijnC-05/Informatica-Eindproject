@@ -15,18 +15,21 @@ public class HudButton : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (DIEDIEDIE.instance.Died == false)
         {
-            if (openbutton == false)
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                anim.SetTrigger("Open");
-                openbutton = true;
+                if (openbutton == false)
+                {
+                    anim.SetTrigger("Open");
+                    openbutton = true;
+                }
+                else if (openbutton == true)
+                {
+                    anim.SetTrigger("Closed");
+                    openbutton = false;
+                }
             }
-            else if (openbutton == true)
-            {
-                anim.SetTrigger("Closed");
-                openbutton = false;
-            }  
         }
     }
 }
