@@ -594,7 +594,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 592554823}
   m_HandleRect: {fileID: 592554822}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1
   m_Size: 0.6418919
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -96238,14 +96238,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotHolder: {fileID: 2061645282}
-  itemToAdd: {fileID: 11400000, guid: 7378b0ca789377443a126a4cd3ff0852, type: 2}
-  itemToRemove: {fileID: 11400000, guid: 126311be8438fe74393d40e58ba69f7b, type: 2}
+  itemToAdd: {fileID: 0}
+  itemToRemove: {fileID: 0}
   startingItems: []
-  items:
-  - item: {fileID: 11400000, guid: 7378b0ca789377443a126a4cd3ff0852, type: 2}
-    quantity: 1
-  - item: {fileID: 11400000, guid: 964b12574ee72424db4c7a5ff2c237ca, type: 2}
-    quantity: 9
+  items: []
 --- !u!114 &2061645285
 MonoBehaviour:
   m_ObjectHideFlags: 0

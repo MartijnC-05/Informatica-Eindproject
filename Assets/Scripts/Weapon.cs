@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Weapon : Collidable
 {
+    
+
     //Damage structure
     public int damagePoint = 1;
     public float pushForce = 2.0f;
@@ -16,6 +18,13 @@ public class Weapon : Collidable
     private Animator anim;
     private float cooldown = 0.5f;
     private float lastSwing;
+
+    /*public Sprite Steen;
+    public static Weapon instance;
+    private void Awake()
+    {
+        instance = this;
+    }*/
 
     //in plaats van de start die in Collidable wordt uitgevoerd
     protected override void Start()
@@ -65,4 +74,10 @@ public class Weapon : Collidable
     {
         anim.SetTrigger("Swing");
     }
+
+    /*public void ChangeWeapon()
+    {
+        Debug.Log("change");
+        GetComponent<SpriteRenderer>().sprite = Steen;
+    }*/
 }

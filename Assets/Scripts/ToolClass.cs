@@ -21,6 +21,7 @@ public class ToolClass : ItemClass
 
     public override void Use(InventoryManager Caller)
     {
+        //Weapon.instance.ChangeWeapon();
         NotificationAnim.instance.Pling();
         Debug.Log("Damage: " + damagePoint);
         TextManager.instance.myText = "Damage: " + damagePoint.ToString();
