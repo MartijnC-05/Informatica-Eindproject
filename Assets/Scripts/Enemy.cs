@@ -6,6 +6,9 @@ public class Enemy : Mover
 {
     //Experience
     public int xpValue = 1;
+    //private ItemClass[] droppable;
+    [SerializeField] private ItemClass[] droppable;
+
 
     //Logic
     public float triggerLength = 1; //als afstand minder dan 1 is valt enemy je aan
@@ -50,8 +53,11 @@ public class Enemy : Mover
 
     private void FixedUpdate()
     {
+        Debug.Log("playerTranform.position: " + playerTransform.position);
+        Debug.Log("startingposition: " + startingPosition);
+        Debug.Log("chaselength: " + chaseLength);
         //Player in range?
-        if(Vector3.Distance(playerTransform.position, startingPosition) < chaseLength) //wat zorgt voor de error???
+        if (Vector3.Distance(playerTransform.position, startingPosition) < chaseLength) //de player verdwijnt uit de gamemanager
         {
             if (Vector3.Distance(playerTransform.position, startingPosition) < triggerLength)
                 chasing = true;
@@ -95,6 +101,14 @@ public class Enemy : Mover
 
     public override void Death()
     {
+        if (droppable.Length > 0)
+        {
+            ItemClass ToDrop = droppable[Random.Range(0, droppable.Length)];
+            if(ToDrop != null)
+            {
+                InventoryManager.instance.Add(ToDrop);
+            }
+        }
         Destroy(gameObject);
         GameManager.instance.experience += xpValue;
         GameManager.instance.ShowText("+" + xpValue + " xp", 30, Color.magenta, transform.position, Vector3.up * 40, 1.0f);

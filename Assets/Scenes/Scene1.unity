@@ -8550,6 +8550,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Krabbetje (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 126311be8438fe74393d40e58ba69f7b, type: 2}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: a9d4544dd95e983428fd5af151ebfcd8, type: 2}
     - target: {fileID: 3344870371357716253, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -10259,6 +10271,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 964b12574ee72424db4c7a5ff2c237ca, type: 2}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -12139,6 +12159,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: 964b12574ee72424db4c7a5ff2c237ca, type: 2}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -20792,7 +20820,6 @@ GameObject:
   - component: {fileID: 1380936707}
   - component: {fileID: 1380936708}
   - component: {fileID: 1380936711}
-  - component: {fileID: 1380936712}
   - component: {fileID: 1380936713}
   m_Layer: 9
   m_Name: player
@@ -20926,18 +20953,6 @@ MonoBehaviour:
   oxygenDecreaseRate: 8
   oxygenIncreaseRate: 35
   oxygenPercentageText: {fileID: 270256547}
---- !u!114 &1380936712
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1380936706}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b9de8cbe1ff93a041822b3807afb8ec3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &1380936713
 Animator:
   serializedVersion: 3
@@ -21524,6 +21539,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 964b12574ee72424db4c7a5ff2c237ca, type: 2}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -63305,6 +63328,14 @@ PrefabInstance:
       propertyPath: pushRecoverySpeed
       value: 0.1
       objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: a9d4544dd95e983428fd5af151ebfcd8, type: 2}
     - target: {fileID: 3344870371357716253, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -63468,6 +63499,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Visje
       objectReference: {fileID: 0}
+    - target: {fileID: 1683195066436287861, guid: ee0e25de49392dd45b523000d9d397fd, type: 3}
+      propertyPath: droppable.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683195066436287861, guid: ee0e25de49392dd45b523000d9d397fd, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 1832ebeb17d72f3448af60bde5c5b395, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee0e25de49392dd45b523000d9d397fd, type: 3}
 --- !u!1001 &1900040162707258785
@@ -63480,6 +63519,18 @@ PrefabInstance:
     - target: {fileID: 1900040164318348460, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_Name
       value: Kwal
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 964b12574ee72424db4c7a5ff2c237ca, type: 2}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: droppable.Array.data[1]
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
@@ -63599,6 +63650,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Krabbetje
       objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: a9d4544dd95e983428fd5af151ebfcd8, type: 2}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: droppable.Array.data[2]
+      value: 
+      objectReference: {fileID: 11400000, guid: 126311be8438fe74393d40e58ba69f7b, type: 2}
     - target: {fileID: 3344870371357716253, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -63700,6 +63767,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3780180874216059831, guid: d48ece8e2512c494ba9ca5290cbcbeab, type: 3}
+      propertyPath: droppable.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3780180874216059831, guid: d48ece8e2512c494ba9ca5290cbcbeab, type: 3}
+      propertyPath: droppable.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 5e08531fdc4ae234095c76563c4b8078, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d48ece8e2512c494ba9ca5290cbcbeab, type: 3}
 --- !u!1001 &4607490144060249055

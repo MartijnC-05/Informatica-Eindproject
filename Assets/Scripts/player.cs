@@ -25,28 +25,39 @@ public class player : Mover, IDataPersistance
 
     private void Update()
     {
-        if (moveDelta.x > 0)
+        if (DIEDIEDIE.instance.Died == false)
+        {
+            ySpeed = 0.75f;
+            xSpeed = 1.0f;
+        }
+        else
+        {
+            ySpeed = 0;
+            xSpeed = 0;
+        }
+
+        if (moveDelta.x == 1)
         {
             anim.SetBool("WalkingRight", true);
             anim.SetBool("WalkingDown", false);
             anim.SetBool("WalkingUp", false);
-            anim.SetBool("WalkingLeft", false); 
+            anim.SetBool("WalkingLeft", true); 
         }
-        else if (moveDelta.x < 0)
+        else if (moveDelta.x == -1)
         {
             anim.SetBool("WalkingLeft", true);
             anim.SetBool("WalkingRight", false);
             anim.SetBool("WalkingDown", false);
             anim.SetBool("WalkingUp", false);
         }
-        else if (moveDelta.y > 0)
+        else if (moveDelta.y == 0.75)
         {
             anim.SetBool("WalkingUp", true);
             anim.SetBool("WalkingDown", false);
             anim.SetBool("WalkingLeft", false);
             anim.SetBool("WalkingRight", false);
         }
-        else if (moveDelta.y < 0)
+        else if (moveDelta.y == -0.75)
         {
             anim.SetBool("WalkingDown", true);
             anim.SetBool("WalkingUp", false);

@@ -12,7 +12,7 @@ public abstract class Mover : Fighter
     protected Animator anim;
 
 
-    protected void Update()
+    /*protected void Update()
     {
         if (DIEDIEDIE.instance.Died == false)
         {
@@ -24,7 +24,7 @@ public abstract class Mover : Fighter
             ySpeed = 0;
             xSpeed = 0;
         }
-    }
+    }*/
 
 
     protected virtual void Start()
