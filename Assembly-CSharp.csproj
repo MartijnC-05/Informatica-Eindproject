@@ -47,6 +47,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Endcredits.cs" />
      <Compile Include="Assets\Scripts\Fighter.cs" />
      <Compile Include="Assets\Scripts\DIEDIEDIE.cs" />
      <Compile Include="Assets\Scripts\DataPersistance\FileDataHandler.cs" />
@@ -70,6 +71,7 @@
      <Compile Include="Assets\Scripts\OxygenController.cs" />
      <Compile Include="Assets\DialogueTrigger.cs" />
      <Compile Include="Assets\Scripts\FloatingText.cs" />
+     <Compile Include="Assets\Scripts\Endcredits2.cs" />
      <Compile Include="Assets\npc.cs" />
      <Compile Include="Assets\Scripts\TextManager.cs" />
      <Compile Include="Assets\Scripts\DataPersistance\IDataPersistance.cs" />
