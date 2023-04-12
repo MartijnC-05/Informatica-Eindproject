@@ -53,9 +53,10 @@ public class Enemy : Mover
 
     private void FixedUpdate()
     {
-        Debug.Log("playerTranform.position: " + playerTransform.position);
+        /*Debug.Log("playerTranform.position: " + playerTransform.position);
         Debug.Log("startingposition: " + startingPosition);
-        Debug.Log("chaselength: " + chaseLength);
+        Debug.Log("chaselength: " + chaseLength);*/
+
         //Player in range?
         if (Vector3.Distance(playerTransform.position, startingPosition) < chaseLength) //de player verdwijnt uit de gamemanager
         {
