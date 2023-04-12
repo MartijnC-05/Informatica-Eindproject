@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\ItemClass.cs" />
      <Compile Include="Assets\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\OpenNote.cs" />
+     <Compile Include="Assets\Scripts\QuestText.cs" />
      <Compile Include="Assets\Scripts\DataPersistance\Data\GameData.cs" />
      <Compile Include="Assets\Scripts\HudButton.cs" />
      <Compile Include="Assets\Scripts\OxygenController.cs" />
@@ -81,7 +82,9 @@
      <Compile Include="Assets\Scripts\Weapon.cs" />
      <Compile Include="Assets\Scripts\Water.cs" />
      <Compile Include="Assets\Scripts\Collidable.cs" />
+     <Compile Include="Assets\Scripts\Quests.cs" />
      <Compile Include="Assets\Scripts\ConsumableClass.cs" />
+     <Compile Include="Assets\Scripts\QuestMaster.cs" />
      <Compile Include="Assets\Scripts\MiscClass.cs" />
      <Compile Include="Assets\Scripts\Damage.cs" />
      <Compile Include="Assets\Scripts\Portal.cs" />
@@ -89,7 +92,6 @@
      <Compile Include="Assets\MainMenu.cs" />
      <Compile Include="Assets\Scripts\ConversationClass.cs" />
      <Compile Include="Assets\Scripts\Audio.cs" />
-     <Compile Include="Assets\Scripts\Quest.cs" />
      <Compile Include="Assets\Scripts\SlotClass.cs" />
      <Compile Include="Assets\Scripts\NotificationAnim.cs" />
      <Compile Include="Assets\Scripts\EnemyHitbox.cs" />

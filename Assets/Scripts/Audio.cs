@@ -12,7 +12,10 @@ public class Audio : MonoBehaviour
 
     AudioSource audioSource;
     public AudioClip audioClip;
+    public AudioClip audioClip2;
     public bool played = true;
+    private bool Done = false;
+
 
     public void play()
     {
@@ -22,6 +25,21 @@ public class Audio : MonoBehaviour
         }
     }
 
+
+    public void Boom()
+    {
+        if (Quests.instance.questcomplete == true)
+        {
+            if (Done == false)
+            {
+                audioSource = GetComponent<AudioSource>();
+                audioSource.clip = audioClip2;
+                audioSource.loop = false;
+                audioSource.Play();
+                Done = true;
+            }
+        }
+    }
 
     // Update is called once per frame
     void Update()
