@@ -1640,3 +1640,275 @@ Received Import Request.
 Start importing Assets/Scenes/Scene2.unity using Guid(b0520836a4285b54690e4e24d14a0175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359928ac0abb7c65b160e2f85c564a6d') in 0.018642 seconds 
   Import took 0.027710 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 203.618056 seconds.
+  path: Assets/Scenes/Scene3.unity
+  artifactKey: Guid(6fab5d029b937174daa7bcdf689af27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene3.unity using Guid(6fab5d029b937174daa7bcdf689af27c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a4e8ea7911faaea448ec3331bd1024') in 0.002387 seconds 
+  Import took 0.013541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2387.062083 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_10.asset
+  artifactKey: Guid(7186c936c97dc48e2af8a0ba18c5e6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_10.asset using Guid(7186c936c97dc48e2af8a0ba18c5e6fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d14b2f0af9ac81a8c3bd2e3eb272581') in 0.075045 seconds 
+  Import took 0.120137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_19.asset
+  artifactKey: Guid(2eee9ed2ef77e422ea305f67038a48e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_19.asset using Guid(2eee9ed2ef77e422ea305f67038a48e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61210f22f8ea1c06dddd1e6889e6eec4') in 0.025381 seconds 
+  Import took 0.032580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_12.asset
+  artifactKey: Guid(e9b6fd62e57a54ebfadc511ce566885f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_12.asset using Guid(e9b6fd62e57a54ebfadc511ce566885f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff3c04133703d0d5b9669aadb43c7c5') in 0.023942 seconds 
+  Import took 0.030604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001828 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_13.asset
+  artifactKey: Guid(6cead69e5da0342768a914f2bc716f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_13.asset using Guid(6cead69e5da0342768a914f2bc716f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0adacf774f408ece076b1a9e27abac3e') in 0.023669 seconds 
+  Import took 0.032434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_24.asset
+  artifactKey: Guid(b9d6aebc4f53c42b5852af225c92dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_24.asset using Guid(b9d6aebc4f53c42b5852af225c92dded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceeda7c430c804585cb2fc9a7c629867') in 0.027208 seconds 
+  Import took 0.034780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_25.asset
+  artifactKey: Guid(bb8e37e7d06ee4240bb536dda5f8fd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_25.asset using Guid(bb8e37e7d06ee4240bb536dda5f8fd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e08ca07d0ba5f0dd6e20180fe3b53b5e') in 0.020117 seconds 
+  Import took 0.027307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_32.asset
+  artifactKey: Guid(85590365dbb91420b8ec46f60c3b38fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_32.asset using Guid(85590365dbb91420b8ec46f60c3b38fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f22b66a25df8c0833d863d5d0ee4fc0') in 0.031367 seconds 
+  Import took 0.038430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000590 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_18.asset
+  artifactKey: Guid(79e30806f009e4ccfbadb0184d80defc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_18.asset using Guid(79e30806f009e4ccfbadb0184d80defc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce83d4ff106d35c101a505b8e05087e1') in 0.017387 seconds 
+  Import took 0.028418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_34.asset
+  artifactKey: Guid(ab6fd9b5dee3e4a9fafe93f6d6c281ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_34.asset using Guid(ab6fd9b5dee3e4a9fafe93f6d6c281ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79074583b973391c1a9c2b2c82f22cca') in 0.049936 seconds 
+  Import took 0.058313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_22.asset
+  artifactKey: Guid(8769f1f03491543bdae1956075bc0d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_22.asset using Guid(8769f1f03491543bdae1956075bc0d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7401af6760fc8c5f1f82b3c95b641704') in 0.019469 seconds 
+  Import took 0.028156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_37.asset
+  artifactKey: Guid(f156d728e301b47db94f2760bb15737d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_37.asset using Guid(f156d728e301b47db94f2760bb15737d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7444ba5d86d35069afb5de78629bd5') in 0.036677 seconds 
+  Import took 0.047842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001029 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_28.asset
+  artifactKey: Guid(3ae575d177e204ecf81eb28b1b3c1f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_28.asset using Guid(3ae575d177e204ecf81eb28b1b3c1f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455852f707a0a21d369f79fa3d527cd8') in 0.043789 seconds 
+  Import took 0.055253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003968 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_26.asset
+  artifactKey: Guid(79930db2ec2dd454da4d3c38243d2d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_26.asset using Guid(79930db2ec2dd454da4d3c38243d2d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bd662519b260c1520c557820b77489') in 0.022600 seconds 
+  Import took 0.032224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000529 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_35.asset
+  artifactKey: Guid(79e6f9bd6d33c4ad1b4ed4a4d821ddc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_35.asset using Guid(79e6f9bd6d33c4ad1b4ed4a4d821ddc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b6ffbeb558f9d6376a822c6015e47f2') in 0.035697 seconds 
+  Import took 0.061505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_39.asset
+  artifactKey: Guid(53240e5bc1d644d3e847c2202e9d0738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_39.asset using Guid(53240e5bc1d644d3e847c2202e9d0738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65af2e90cf030c04c9f71fb9e76827e1') in 0.071074 seconds 
+  Import took 0.083891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000658 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_23.asset
+  artifactKey: Guid(e7fa4c74912c247839b88cf595d19811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_23.asset using Guid(e7fa4c74912c247839b88cf595d19811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '110a19f0581f5f1d9f77d9a38d944f6f') in 0.022006 seconds 
+  Import took 0.032154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000871 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_16.asset
+  artifactKey: Guid(7e293d99d3e60439da1df0b96294c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_16.asset using Guid(7e293d99d3e60439da1df0b96294c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5918319e1d5d89bcb1d6ed54a4eca2a0') in 0.059432 seconds 
+  Import took 0.067605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005734 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_31.asset
+  artifactKey: Guid(13ad1dc67086549549f698e821ed384c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_31.asset using Guid(13ad1dc67086549549f698e821ed384c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2498ed29784ac691fd4fd33ed1ccdb34') in 0.054090 seconds 
+  Import took 0.065170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_29.asset
+  artifactKey: Guid(9353098df85a74396b77bde19fb4f5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_29.asset using Guid(9353098df85a74396b77bde19fb4f5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214b22c6a771e532c16fc9bbabc9cf17') in 0.048735 seconds 
+  Import took 0.059404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001220 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_40.asset
+  artifactKey: Guid(65e53aa38bf4245a4872b3a8267a76cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_40.asset using Guid(65e53aa38bf4245a4872b3a8267a76cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91ca7332f240359e8a1f319ca5f4785') in 0.022127 seconds 
+  Import took 0.031028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_41.asset
+  artifactKey: Guid(b199b7713bb0d4d4583a4aa46221f63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_41.asset using Guid(b199b7713bb0d4d4583a4aa46221f63f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fac3ee28b524e6c6123dd4142fed23b') in 0.064912 seconds 
+  Import took 0.074635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_27.asset
+  artifactKey: Guid(4848ba2fdd2084e459af280e502ccb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_27.asset using Guid(4848ba2fdd2084e459af280e502ccb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc50165e42772c3d4c4d59e4bfef10c0') in 0.025118 seconds 
+  Import took 0.038959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_21.asset
+  artifactKey: Guid(8aeae2ed5fbd9433fb71851a1539b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_21.asset using Guid(8aeae2ed5fbd9433fb71851a1539b178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa83c91fe5ced0a2142aa0964f5e4dc9') in 0.039832 seconds 
+  Import took 0.054813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000506 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_17.asset
+  artifactKey: Guid(f7438b7ab38f440ea80fbe8aed087e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_17.asset using Guid(f7438b7ab38f440ea80fbe8aed087e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd845febcf75a845a63dde9463d48d141') in 0.024097 seconds 
+  Import took 0.033530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_36.asset
+  artifactKey: Guid(66a091795c37f42c884b0f4a04ace2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_36.asset using Guid(66a091795c37f42c884b0f4a04ace2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f88bd3feaa992760fa2f47348d48f2c7') in 0.024003 seconds 
+  Import took 0.036876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000591 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_33.asset
+  artifactKey: Guid(3a900682d6789419685c1786c5afe001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_33.asset using Guid(3a900682d6789419685c1786c5afe001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd93c677348b2700884d5cd11ffd3c3') in 0.024888 seconds 
+  Import took 0.031636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_30.asset
+  artifactKey: Guid(556109d4e17d649878f0f26f575c707b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_30.asset using Guid(556109d4e17d649878f0f26f575c707b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f435d7b6b554fab4bc1b7e02fc63ae') in 0.032476 seconds 
+  Import took 0.041562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001210 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_14.asset
+  artifactKey: Guid(0b4a0c87f29f94aafa55ebb67fb09c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_14.asset using Guid(0b4a0c87f29f94aafa55ebb67fb09c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '743cfd621655f369f06a4df0f00bab86') in 0.019713 seconds 
+  Import took 0.029008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001054 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_38.asset
+  artifactKey: Guid(df53b3dff7c364ec09fae171c548727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_38.asset using Guid(df53b3dff7c364ec09fae171c548727a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45be72d98309b6840f850eeda6555e14') in 0.039673 seconds 
+  Import took 0.048323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_15.asset
+  artifactKey: Guid(f1c38c889ffd54f8ea27671fb08e294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_15.asset using Guid(f1c38c889ffd54f8ea27671fb08e294f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc09c9954784ba1c53a6081f209a0b6') in 0.022772 seconds 
+  Import took 0.029519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_11.asset
+  artifactKey: Guid(e28d2129e28c847e881054335a085c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_11.asset using Guid(e28d2129e28c847e881054335a085c88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28a44523a2a1eab031efa9af211723a') in 0.030298 seconds 
+  Import took 0.039888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_20.asset
+  artifactKey: Guid(f0ab95ae3b43c4b15a37b22ad6a7b3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/af,die met blauwe achtergrond niet gebruiken_20.asset using Guid(f0ab95ae3b43c4b15a37b22ad6a7b3c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93943e0d52552ed468314db2085eb56e') in 0.021833 seconds 
+  Import took 0.031003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.179140 seconds.
+  path: Assets/Fonts/SpeedBeast FREE SDF.asset
+  artifactKey: Guid(1c9c4c625f46ab24bad58562d8120409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/SpeedBeast FREE SDF.asset using Guid(1c9c4c625f46ab24bad58562d8120409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c54dff7f6cedee15f571446dbb24ed') in 0.434295 seconds 
+  Import took 0.441371 seconds .
+
