@@ -47,4 +47,9 @@ public class FloatingTextManager : MonoBehaviour
 
         return txt; //Als er text is gevonden wordt die gereturned
     }
+
+    void Start()
+    {
+        textContainer = GameObject.Find("Text Container");
+    }
 }

@@ -26,7 +26,11 @@ public class Enemy : Mover
     protected override void Start()
     {
         base.Start();
-        playerTransform = GameManager.instance.player.transform;
+        if (GameManager.instance != null && GameManager.instance.player != null)
+        {
+            playerTransform = GameManager.instance.player.transform;
+        }
+
         startingPosition = transform.position;
         hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
     }
@@ -58,22 +62,25 @@ public class Enemy : Mover
         Debug.Log("chaselength: " + chaseLength);*/
 
         //Player in range?
-        if (Vector3.Distance(playerTransform.position, startingPosition) < chaseLength) //de player verdwijnt uit de gamemanager
+        if (playerTransform != null)
         {
-            if (Vector3.Distance(playerTransform.position, startingPosition) < triggerLength)
-                chasing = true;
-            
-            if (chasing)
+            if (Vector3.Distance(playerTransform.position, startingPosition) < chaseLength)
             {
-                if(!collidingWithPlayer)
+                if (Vector3.Distance(playerTransform.position, startingPosition) < triggerLength)
+                    chasing = true;
+
+                if (chasing)
                 {
-                    UpdateMotor((playerTransform.position - transform.position).normalized);
+                    if (!collidingWithPlayer)
+                    {
+                        UpdateMotor((playerTransform.position - transform.position).normalized);
+                    }
                 }
-            }
-            
-            else
-            {
-                UpdateMotor(startingPosition - transform.position);
+
+                else
+                {
+                    UpdateMotor(startingPosition - transform.position);
+                }
             }
         }
 

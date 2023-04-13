@@ -61,7 +61,10 @@ public class GameManager : MonoBehaviour
         s += pesos.ToString() + "|"; //Zet een int om naar een string
         s += experience.ToString() + "|";
         s += "0" + "|";
-        s += player.hitpoint.ToString();
+        if (player != null)
+        {
+            s += player.hitpoint.ToString();
+        }
 
         PlayerPrefs.SetString("SaveState", s); //Je savet op savestate alles wat je aan s hebt toegevoegd (soort boodschappenlijst)
     }
@@ -80,7 +83,10 @@ public class GameManager : MonoBehaviour
         pesos = int.Parse(data[1]);
         experience = int.Parse(data[2]);
         //Change the weapon level
-        player.hitpoint = int.Parse(data[4]);
+        if (player != null)
+        {
+            player.hitpoint = int.Parse(data[4]);
+        }
 
         Debug.Log("LoadState");
     }

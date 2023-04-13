@@ -17,17 +17,21 @@ public class CharacterMenu : MonoBehaviour, IDataPersistance
         //HP bar
         float HealthPercentage = (float)health / 100;
 
-        if (GameManager.instance.player.hitpoint >= 100)
+        if (GameManager.instance != null && GameManager.instance.player != null)
         {
-            GameManager.instance.player.hitpoint = 100;
+            if (GameManager.instance.player.hitpoint >= 100)
+            {
+                GameManager.instance.player.hitpoint = 100;
+            }
+
+            if (GameManager.instance.player.hitpoint <= 0)
+            {
+                GameManager.instance.player.hitpoint = 0;
+                Fighter.instance.Death();
+            }
+            health = GameManager.instance.player.hitpoint;
         }
 
-        if (GameManager.instance.player.hitpoint <= 0)
-        {
-            GameManager.instance.player.hitpoint = 0;
-            Fighter.instance.Death();
-        }
-        health = GameManager.instance.player.hitpoint;
         healthText.text = health.ToString() + "%";
         hpBar.localScale = new Vector3(HealthPercentage, 1, 1);
     }
