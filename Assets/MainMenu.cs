@@ -31,9 +31,15 @@ public class MainMenu : MonoBehaviour
         //volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
     }
 
+    public void StartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+
     public void PlayGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        //DataPersistanceManager.instance.NewGame();
     }
 
     public void LoadGame()
@@ -59,6 +65,11 @@ public class MainMenu : MonoBehaviour
     {
         Debug.Log ("QUIT");
         Application.Quit();
+    }
+
+    public void EndGame()
+    {
+        SceneManager.LoadScene("Menu");
     }
 
 
