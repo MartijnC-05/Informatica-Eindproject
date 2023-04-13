@@ -29,7 +29,9 @@ public class Quests : Collectable
             GetComponent<SpriteRenderer>().sprite = Leeg;
             InventoryManager.instance.Add(itemToAdd);
             questcomplete = true;
-            GameManager.instance.ShowText("collected!", 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            //GameManager.instance.ShowText("collected!", 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            NotificationAnim.instance.Pling();
+            TextManager.instance.myText = "collected!";
         }
 
     }

@@ -19,7 +19,9 @@ public class Sword : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = Leeg;
             InventoryManager.instance.Add(itemToAdd);
-            GameManager.instance.ShowText("collected!", 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            //GameManager.instance.ShowText("collected!", 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            NotificationAnim.instance.Pling();
+            TextManager.instance.myText = "collected!";
         }
 
     }
