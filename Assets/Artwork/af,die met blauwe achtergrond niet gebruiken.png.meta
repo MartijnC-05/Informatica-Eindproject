@@ -1,0 +1,4404 @@
+fileFormatVersion: 2
+guid: fe0b1d59989c44f0d9b468d04e969835
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -780412095419433987
+    second: af,die met blauwe achtergrond niet gebruiken_0
+  - first:
+      213: -6932705166104103700
+    second: af,die met blauwe achtergrond niet gebruiken_1
+  - first:
+      213: -5956949474343113987
+    second: af,die met blauwe achtergrond niet gebruiken_2
+  - first:
+      213: 1631363490953357614
+    second: af,die met blauwe achtergrond niet gebruiken_3
+  - first:
+      213: -777483314516351571
+    second: af,die met blauwe achtergrond niet gebruiken_4
+  - first:
+      213: -2744646506824658151
+    second: af,die met blauwe achtergrond niet gebruiken_5
+  - first:
+      213: -2091617687853244081
+    second: af,die met blauwe achtergrond niet gebruiken_6
+  - first:
+      213: 8405537269570780913
+    second: af,die met blauwe achtergrond niet gebruiken_7
+  - first:
+      213: -6641549032384256589
+    second: af,die met blauwe achtergrond niet gebruiken_8
+  - first:
+      213: 5896462873917049812
+    second: af,die met blauwe achtergrond niet gebruiken_9
+  - first:
+      213: -1674998284120889252
+    second: af,die met blauwe achtergrond niet gebruiken_10
+  - first:
+      213: -8796532654864230685
+    second: af,die met blauwe achtergrond niet gebruiken_11
+  - first:
+      213: -2683275693975743200
+    second: af,die met blauwe achtergrond niet gebruiken_12
+  - first:
+      213: -1243990581369964313
+    second: af,die met blauwe achtergrond niet gebruiken_13
+  - first:
+      213: -5642196205612355678
+    second: af,die met blauwe achtergrond niet gebruiken_14
+  - first:
+      213: 6409158454614048132
+    second: af,die met blauwe achtergrond niet gebruiken_15
+  - first:
+      213: 4154741163716852782
+    second: af,die met blauwe achtergrond niet gebruiken_16
+  - first:
+      213: 2438217684049920530
+    second: af,die met blauwe achtergrond niet gebruiken_17
+  - first:
+      213: 7288810033090658094
+    second: af,die met blauwe achtergrond niet gebruiken_18
+  - first:
+      213: 2710844044727290116
+    second: af,die met blauwe achtergrond niet gebruiken_19
+  - first:
+      213: 1318783468277981637
+    second: af,die met blauwe achtergrond niet gebruiken_20
+  - first:
+      213: -1224553389823477682
+    second: af,die met blauwe achtergrond niet gebruiken_21
+  - first:
+      213: 7578165370507686495
+    second: af,die met blauwe achtergrond niet gebruiken_22
+  - first:
+      213: 8544968011691471732
+    second: af,die met blauwe achtergrond niet gebruiken_23
+  - first:
+      213: -5921410095027089955
+    second: af,die met blauwe achtergrond niet gebruiken_24
+  - first:
+      213: 6553946620867270418
+    second: af,die met blauwe achtergrond niet gebruiken_25
+  - first:
+      213: 3399125134643788782
+    second: af,die met blauwe achtergrond niet gebruiken_26
+  - first:
+      213: 8043030414631035485
+    second: af,die met blauwe achtergrond niet gebruiken_27
+  - first:
+      213: -2849930230868535699
+    second: af,die met blauwe achtergrond niet gebruiken_28
+  - first:
+      213: -5792505915677725516
+    second: af,die met blauwe achtergrond niet gebruiken_29
+  - first:
+      213: 3365947229552036838
+    second: af,die met blauwe achtergrond niet gebruiken_30
+  - first:
+      213: 2039372301465718445
+    second: af,die met blauwe achtergrond niet gebruiken_31
+  - first:
+      213: -1968903369310843862
+    second: af,die met blauwe achtergrond niet gebruiken_32
+  - first:
+      213: 2434473918778218458
+    second: af,die met blauwe achtergrond niet gebruiken_33
+  - first:
+      213: 2866265779973169154
+    second: af,die met blauwe achtergrond niet gebruiken_34
+  - first:
+      213: 8133799705104975700
+    second: af,die met blauwe achtergrond niet gebruiken_35
+  - first:
+      213: 5293550059479782763
+    second: af,die met blauwe achtergrond niet gebruiken_36
+  - first:
+      213: -6982130983293227485
+    second: af,die met blauwe achtergrond niet gebruiken_37
+  - first:
+      213: 4085079589556947255
+    second: af,die met blauwe achtergrond niet gebruiken_38
+  - first:
+      213: -8668483697205701853
+    second: af,die met blauwe achtergrond niet gebruiken_39
+  - first:
+      213: 5121945116201919277
+    second: af,die met blauwe achtergrond niet gebruiken_40
+  - first:
+      213: 2746285090277282238
+    second: af,die met blauwe achtergrond niet gebruiken_41
+  - first:
+      213: 4736376678770273502
+    second: af,die met blauwe achtergrond niet gebruiken_42
+  - first:
+      213: 861084029507207919
+    second: af,die met blauwe achtergrond niet gebruiken_43
+  - first:
+      213: 6794066358555236984
+    second: af,die met blauwe achtergrond niet gebruiken_44
+  - first:
+      213: -61455021704146231
+    second: af,die met blauwe achtergrond niet gebruiken_45
+  - first:
+      213: -3795804227957247404
+    second: af,die met blauwe achtergrond niet gebruiken_46
+  - first:
+      213: 4242721069120633725
+    second: af,die met blauwe achtergrond niet gebruiken_47
+  - first:
+      213: -2256730775294242075
+    second: af,die met blauwe achtergrond niet gebruiken_48
+  - first:
+      213: -3145802525179513996
+    second: af,die met blauwe achtergrond niet gebruiken_49
+  - first:
+      213: -8611975284422999801
+    second: af,die met blauwe achtergrond niet gebruiken_50
+  - first:
+      213: 5644318805502248888
+    second: af,die met blauwe achtergrond niet gebruiken_51
+  - first:
+      213: 4072779249916349122
+    second: af,die met blauwe achtergrond niet gebruiken_52
+  - first:
+      213: 1126034045147808297
+    second: af,die met blauwe achtergrond niet gebruiken_53
+  - first:
+      213: -3591119151417835580
+    second: af,die met blauwe achtergrond niet gebruiken_54
+  - first:
+      213: 177647333305088384
+    second: af,die met blauwe achtergrond niet gebruiken_55
+  - first:
+      213: 4588279924412483808
+    second: af,die met blauwe achtergrond niet gebruiken_56
+  - first:
+      213: 3857421371398900668
+    second: af,die met blauwe achtergrond niet gebruiken_57
+  - first:
+      213: -913893359416650606
+    second: af,die met blauwe achtergrond niet gebruiken_58
+  - first:
+      213: 7205175225487820139
+    second: af,die met blauwe achtergrond niet gebruiken_59
+  - first:
+      213: 5318436557509872826
+    second: af,die met blauwe achtergrond niet gebruiken_60
+  - first:
+      213: -7426320478298756738
+    second: af,die met blauwe achtergrond niet gebruiken_61
+  - first:
+      213: 4751893433732289066
+    second: af,die met blauwe achtergrond niet gebruiken_62
+  - first:
+      213: 4375659222991236277
+    second: af,die met blauwe achtergrond niet gebruiken_63
+  - first:
+      213: -5198115609475878602
+    second: af,die met blauwe achtergrond niet gebruiken_64
+  - first:
+      213: -6874189161236805697
+    second: af,die met blauwe achtergrond niet gebruiken_65
+  - first:
+      213: -604309646580825079
+    second: af,die met blauwe achtergrond niet gebruiken_66
+  - first:
+      213: -1507931616830743566
+    second: af,die met blauwe achtergrond niet gebruiken_67
+  - first:
+      213: -3858824444167946064
+    second: af,die met blauwe achtergrond niet gebruiken_68
+  - first:
+      213: -9181324047872287182
+    second: af,die met blauwe achtergrond niet gebruiken_69
+  - first:
+      213: 576444099729625004
+    second: af,die met blauwe achtergrond niet gebruiken_70
+  - first:
+      213: 3697629920402098000
+    second: af,die met blauwe achtergrond niet gebruiken_71
+  - first:
+      213: -1975283447701149753
+    second: af,die met blauwe achtergrond niet gebruiken_72
+  - first:
+      213: -3591019796145734146
+    second: af,die met blauwe achtergrond niet gebruiken_73
+  - first:
+      213: -3842555699870454541
+    second: af,die met blauwe achtergrond niet gebruiken_74
+  - first:
+      213: -3629393662776608275
+    second: af,die met blauwe achtergrond niet gebruiken_75
+  - first:
+      213: 8116536039624341810
+    second: af,die met blauwe achtergrond niet gebruiken_76
+  - first:
+      213: 7095357597694472344
+    second: af,die met blauwe achtergrond niet gebruiken_77
+  - first:
+      213: 7365576478740927601
+    second: af,die met blauwe achtergrond niet gebruiken_78
+  - first:
+      213: 6511040123119912555
+    second: af,die met blauwe achtergrond niet gebruiken_79
+  - first:
+      213: 6773865799164770482
+    second: af,die met blauwe achtergrond niet gebruiken_80
+  - first:
+      213: -674643821330203933
+    second: af,die met blauwe achtergrond niet gebruiken_81
+  - first:
+      213: -299596229186007972
+    second: af,die met blauwe achtergrond niet gebruiken_82
+  - first:
+      213: -8454968794307027626
+    second: af,die met blauwe achtergrond niet gebruiken_83
+  - first:
+      213: -4456921456651312673
+    second: af,die met blauwe achtergrond niet gebruiken_84
+  - first:
+      213: 139680426656230571
+    second: af,die met blauwe achtergrond niet gebruiken_85
+  - first:
+      213: -3222511651963646401
+    second: af,die met blauwe achtergrond niet gebruiken_86
+  - first:
+      213: -5554665251499309839
+    second: af,die met blauwe achtergrond niet gebruiken_87
+  - first:
+      213: 5640675454985739579
+    second: af,die met blauwe achtergrond niet gebruiken_88
+  - first:
+      213: -3463886179484819618
+    second: af,die met blauwe achtergrond niet gebruiken_89
+  - first:
+      213: 8092199142970015104
+    second: af,die met blauwe achtergrond niet gebruiken_90
+  - first:
+      213: 6741889194653929566
+    second: af,die met blauwe achtergrond niet gebruiken_91
+  - first:
+      213: 6090301031341632469
+    second: af,die met blauwe achtergrond niet gebruiken_92
+  - first:
+      213: 3585510684360704381
+    second: af,die met blauwe achtergrond niet gebruiken_93
+  - first:
+      213: 5832706814233304664
+    second: af,die met blauwe achtergrond niet gebruiken_94
+  - first:
+      213: -4716770657579529930
+    second: af,die met blauwe achtergrond niet gebruiken_95
+  - first:
+      213: 6309574808958458731
+    second: af,die met blauwe achtergrond niet gebruiken_96
+  - first:
+      213: -3229774657349971318
+    second: af,die met blauwe achtergrond niet gebruiken_97
+  - first:
+      213: 1400424012457415194
+    second: af,die met blauwe achtergrond niet gebruiken_98
+  - first:
+      213: -440232747875693352
+    second: af,die met blauwe achtergrond niet gebruiken_99
+  - first:
+      213: 7970727110363900301
+    second: af,die met blauwe achtergrond niet gebruiken_100
+  - first:
+      213: -721455723312147711
+    second: af,die met blauwe achtergrond niet gebruiken_101
+  - first:
+      213: 7534692260012132756
+    second: af,die met blauwe achtergrond niet gebruiken_102
+  - first:
+      213: 8925798481660451634
+    second: af,die met blauwe achtergrond niet gebruiken_103
+  - first:
+      213: -2940737817423666709
+    second: af,die met blauwe achtergrond niet gebruiken_104
+  - first:
+      213: 8997836905877552855
+    second: af,die met blauwe achtergrond niet gebruiken_105
+  - first:
+      213: 1306311463730418838
+    second: af,die met blauwe achtergrond niet gebruiken_106
+  - first:
+      213: -3377141731582395440
+    second: af,die met blauwe achtergrond niet gebruiken_107
+  - first:
+      213: 7155786242953722982
+    second: af,die met blauwe achtergrond niet gebruiken_108
+  - first:
+      213: 1678621420114295365
+    second: af,die met blauwe achtergrond niet gebruiken_109
+  - first:
+      213: 3801000949932673884
+    second: af,die met blauwe achtergrond niet gebruiken_110
+  - first:
+      213: -466676592948305132
+    second: af,die met blauwe achtergrond niet gebruiken_111
+  - first:
+      213: -2801444191216108807
+    second: af,die met blauwe achtergrond niet gebruiken_112
+  - first:
+      213: -4690969731871654532
+    second: af,die met blauwe achtergrond niet gebruiken_113
+  - first:
+      213: -1086938534475806315
+    second: af,die met blauwe achtergrond niet gebruiken_114
+  - first:
+      213: -1813137628518126524
+    second: af,die met blauwe achtergrond niet gebruiken_115
+  - first:
+      213: 1792857783128359493
+    second: af,die met blauwe achtergrond niet gebruiken_116
+  - first:
+      213: -7245095900182554360
+    second: af,die met blauwe achtergrond niet gebruiken_117
+  - first:
+      213: -7317133779627215897
+    second: af,die met blauwe achtergrond niet gebruiken_118
+  - first:
+      213: 649724815160160628
+    second: af,die met blauwe achtergrond niet gebruiken_119
+  - first:
+      213: 3679977211761356544
+    second: af,die met blauwe achtergrond niet gebruiken_120
+  - first:
+      213: -2424853837144333639
+    second: af,die met blauwe achtergrond niet gebruiken_121
+  - first:
+      213: 9170454229096172109
+    second: af,die met blauwe achtergrond niet gebruiken_122
+  - first:
+      213: 1226506892661916035
+    second: af,die met blauwe achtergrond niet gebruiken_123
+  - first:
+      213: 4937957238831889152
+    second: af,die met blauwe achtergrond niet gebruiken_124
+  - first:
+      213: -1969103331319224981
+    second: af,die met blauwe achtergrond niet gebruiken_125
+  - first:
+      213: -8846583602376525998
+    second: af,die met blauwe achtergrond niet gebruiken_126
+  - first:
+      213: -1319012598311019418
+    second: af,die met blauwe achtergrond niet gebruiken_127
+  - first:
+      213: -324891116244495059
+    second: af,die met blauwe achtergrond niet gebruiken_128
+  - first:
+      213: -8568479010816202763
+    second: af,die met blauwe achtergrond niet gebruiken_129
+  - first:
+      213: -2784195432490411924
+    second: af,die met blauwe achtergrond niet gebruiken_130
+  - first:
+      213: 3879028477995902270
+    second: af,die met blauwe achtergrond niet gebruiken_131
+  - first:
+      213: -226375919950646724
+    second: af,die met blauwe achtergrond niet gebruiken_132
+  - first:
+      213: -3096164662617112621
+    second: af,die met blauwe achtergrond niet gebruiken_133
+  - first:
+      213: 8496694478974877943
+    second: af,die met blauwe achtergrond niet gebruiken_134
+  - first:
+      213: -789723116893141153
+    second: af,die met blauwe achtergrond niet gebruiken_135
+  - first:
+      213: -4715104637308825657
+    second: af,die met blauwe achtergrond niet gebruiken_136
+  - first:
+      213: -3810928886802347282
+    second: af,die met blauwe achtergrond niet gebruiken_137
+  - first:
+      213: -4372125087071406401
+    second: af,die met blauwe achtergrond niet gebruiken_138
+  - first:
+      213: 7626022465462854801
+    second: af,die met blauwe achtergrond niet gebruiken_139
+  - first:
+      213: -2660009721455283471
+    second: af,die met blauwe achtergrond niet gebruiken_140
+  - first:
+      213: -8754804855859374449
+    second: af,die met blauwe achtergrond niet gebruiken_141
+  - first:
+      213: -3849263310701385015
+    second: af,die met blauwe achtergrond niet gebruiken_142
+  - first:
+      213: 2549932916002574900
+    second: af,die met blauwe achtergrond niet gebruiken_143
+  - first:
+      213: -8879598088332257947
+    second: af,die met blauwe achtergrond niet gebruiken_144
+  - first:
+      213: 9123668322972130669
+    second: af,die met blauwe achtergrond niet gebruiken_145
+  - first:
+      213: -3110261314709687974
+    second: af,die met blauwe achtergrond niet gebruiken_146
+  - first:
+      213: -59333990200110110
+    second: af,die met blauwe achtergrond niet gebruiken_147
+  - first:
+      213: 3462597265993771737
+    second: af,die met blauwe achtergrond niet gebruiken_148
+  - first:
+      213: -5229617494448489283
+    second: af,die met blauwe achtergrond niet gebruiken_149
+  - first:
+      213: -4842216022371624761
+    second: af,die met blauwe achtergrond niet gebruiken_150
+  - first:
+      213: 3342750896096270170
+    second: af,die met blauwe achtergrond niet gebruiken_151
+  - first:
+      213: -6361742675825143927
+    second: af,die met blauwe achtergrond niet gebruiken_152
+  - first:
+      213: 7100418967515857960
+    second: af,die met blauwe achtergrond niet gebruiken_153
+  - first:
+      213: 2326145009958959202
+    second: af,die met blauwe achtergrond niet gebruiken_154
+  - first:
+      213: -1143922887397860263
+    second: af,die met blauwe achtergrond niet gebruiken_155
+  - first:
+      213: 521099606599512250
+    second: af,die met blauwe achtergrond niet gebruiken_156
+  - first:
+      213: -854322978897648795
+    second: af,die met blauwe achtergrond niet gebruiken_157
+  - first:
+      213: -7368381811167465631
+    second: af,die met blauwe achtergrond niet gebruiken_158
+  - first:
+      213: -1393384953196231838
+    second: af,die met blauwe achtergrond niet gebruiken_159
+  - first:
+      213: 6101079464616893041
+    second: af,die met blauwe achtergrond niet gebruiken_160
+  - first:
+      213: -8069406638927525418
+    second: af,die met blauwe achtergrond niet gebruiken_161
+  - first:
+      213: 1343981451088850925
+    second: af,die met blauwe achtergrond niet gebruiken_162
+  - first:
+      213: -9187494165995612586
+    second: af,die met blauwe achtergrond niet gebruiken_163
+  - first:
+      213: 5069981311603764700
+    second: af,die met blauwe achtergrond niet gebruiken_164
+  - first:
+      213: -3871324477915464322
+    second: af,die met blauwe achtergrond niet gebruiken_165
+  - first:
+      213: -7379813012976734589
+    second: af,die met blauwe achtergrond niet gebruiken_166
+  - first:
+      213: 8716077691534114973
+    second: af,die met blauwe achtergrond niet gebruiken_167
+  - first:
+      213: -3989560349464121689
+    second: af,die met blauwe achtergrond niet gebruiken_168
+  - first:
+      213: 7913851870258307322
+    second: af,die met blauwe achtergrond niet gebruiken_169
+  - first:
+      213: -5873439943694948639
+    second: af,die met blauwe achtergrond niet gebruiken_170
+  - first:
+      213: 2068129835529292814
+    second: af,die met blauwe achtergrond niet gebruiken_171
+  - first:
+      213: -8246209380610879772
+    second: af,die met blauwe achtergrond niet gebruiken_172
+  - first:
+      213: 1360378999399707034
+    second: af,die met blauwe achtergrond niet gebruiken_173
+  - first:
+      213: 5379809446815677379
+    second: af,die met blauwe achtergrond niet gebruiken_174
+  - first:
+      213: 4745626478085176524
+    second: af,die met blauwe achtergrond niet gebruiken_175
+  - first:
+      213: -4016946157605032619
+    second: af,die met blauwe achtergrond niet gebruiken_176
+  - first:
+      213: 4273064855975311658
+    second: af,die met blauwe achtergrond niet gebruiken_177
+  - first:
+      213: -5725192084657045918
+    second: af,die met blauwe achtergrond niet gebruiken_178
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb3b12855b6b25f0800000000000000
+      internalID: -780412095419433987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce479d9e1651acf90800000000000000
+      internalID: -6932705166104103700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa24dca30aa45da0800000000000000
+      internalID: -5956949474343113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e0d1a374c3a610800000000000000
+      internalID: 1631363490953357614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a5737b03d535f0800000000000000
+      internalID: -777483314516351571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91313b63b8e09e9d0800000000000000
+      internalID: -2744646506824658151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4165957bc419f2e0800000000000000
+      internalID: -2091617687853244081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb21bbc9776a470800000000000000
+      internalID: 8405537269570780913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a56ee75a74d3a0800000000000000
+      internalID: -6641549032384256589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbca173eb174d150800000000000000
+      internalID: 5896462873917049812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 936
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e5936fe531c8e0800000000000000
+      internalID: -1674998284120889252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e691bb08207ce580800000000000000
+      internalID: -8796532654864230685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025d22219f613cad0800000000000000
+      internalID: -2683275693975743200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8f28d38257cbee0800000000000000
+      internalID: -1243990581369964313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af2b63d174e2b1b0800000000000000
+      internalID: -5642196205612355678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d367448a7e1f850800000000000000
+      internalID: 6409158454614048132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c390d531b98a930800000000000000
+      internalID: 4154741163716852782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2120fdeb01a46d120800000000000000
+      internalID: 2438217684049920530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ffba97b1e072560800000000000000
+      internalID: 7288810033090658094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4090477cb4ade9520800000000000000
+      internalID: 2710844044727290116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ed52c3924d4210800000000000000
+      internalID: 1318783468277981637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 872
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48321f0e23810fe0800000000000000
+      internalID: -1224553389823477682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f64ee04d0b2960800000000000000
+      internalID: 7578165370507686495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47332f92223d59670800000000000000
+      internalID: 8544968011691471732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8f7c34ece2dda0800000000000000
+      internalID: -5921410095027089955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2175aa53abb44fa50800000000000000
+      internalID: 6553946620867270418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7b85fc4e1c2f20800000000000000
+      internalID: 3399125134643788782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52eebd5c859e9f60800000000000000
+      internalID: 8043030414631035485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661f6afd830378d0800000000000000
+      internalID: -2849930230868535699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc2ea84f82ec9fa0800000000000000
+      internalID: -5792505915677725516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_30
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc826fb2f36be20800000000000000
+      internalID: 3365947229552036838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 808
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae82a99d4e4d4c10800000000000000
+      internalID: 2039372301465718445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c482b31dc0da4e0800000000000000
+      internalID: -1968903369310843862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad79ab7712df8c120800000000000000
+      internalID: 2434473918778218458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200a82f6a8507c720800000000000000
+      internalID: 2866265779973169154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45785f0bcbf01e070800000000000000
+      internalID: 8133799705104975700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b655a009bb7767940800000000000000
+      internalID: 5293550059479782763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eee851ddc7a1f90800000000000000
+      internalID: -6982130983293227485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7398db63e3e11b830800000000000000
+      internalID: 4085079589556947255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3231ac6410c53b780800000000000000
+      internalID: -8668483697205701853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23234a22fdc41740800000000000000
+      internalID: 5121945116201919277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_41
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1dde93db3cc1620800000000000000
+      internalID: 2746285090277282238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_42
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 744
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edceb84be7dfab140800000000000000
+      internalID: 4736376678770273502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe20a84dc5f23fb00800000000000000
+      internalID: 861084029507207919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87add1a4b5f594e50800000000000000
+      internalID: 6794066358555236984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c219adbbfaa52ff0800000000000000
+      internalID: -61455021704146231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452beab6a28925bc0800000000000000
+      internalID: -3795804227957247404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b300e555c21ea30800000000000000
+      internalID: 4242721069120633725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_48
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e215e8015b7ea0e0800000000000000
+      internalID: -2256730775294242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 680
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473f521454dd754d0800000000000000
+      internalID: -3145802525179513996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70106856b1e1c7880800000000000000
+      internalID: -8611975284422999801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7c4097c06a45e40800000000000000
+      internalID: 5644318805502248888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca88d7362b658830800000000000000
+      internalID: 4072779249916349122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92208028ff970af00800000000000000
+      internalID: 1126034045147808297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf33a98828c92ec0800000000000000
+      internalID: -3591119151417835580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f1f4fe41277200800000000000000
+      internalID: 177647333305088384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e889a01848dcaf30800000000000000
+      internalID: 4588279924412483808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb4b3fbc40588530800000000000000
+      internalID: 3857421371398900668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294d165e4d23153f0800000000000000
+      internalID: -913893359416650606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_59
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6585a361bcedf360800000000000000
+      internalID: 7205175225487820139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_60
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc3daeed1eec940800000000000000
+      internalID: 5318436557509872826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e792bce0fd860f890800000000000000
+      internalID: -7426320478298756738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22df10c6ed12f140800000000000000
+      internalID: 4751893433732289066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bced8c41e679bc30800000000000000
+      internalID: 4375659222991236277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f6cbd4659cd7b0800000000000000
+      internalID: -5198115609475878602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c3adf069f990a0800000000000000
+      internalID: -6874189161236805697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_66
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9044535049f0d97f0800000000000000
+      internalID: -604309646580825079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb19311f20c21be0800000000000000
+      internalID: -1507931616830743566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b086caec93b27ac0800000000000000
+      internalID: -3858824444167946064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e12d65c62659080800000000000000
+      internalID: -9181324047872287182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0145cad0fff700800000000000000
+      internalID: 576444099729625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 552
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0574c6c52de905330800000000000000
+      internalID: 3697629920402098000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c760197b226694e0800000000000000
+      internalID: -1975283447701149753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd765d75822a2ec0800000000000000
+      internalID: -3591019796145734146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fca19f13ff7caac0800000000000000
+      internalID: -3842555699870454541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9752c61bdc1adc0800000000000000
+      internalID: -3629393662776608275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239f678568ab3a070800000000000000
+      internalID: 8116536039624341810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890b2fc6426c77260800000000000000
+      internalID: 7095357597694472344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174535d68c8c73660800000000000000
+      internalID: 7365576478740927601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66c0e8be7cdb5a50800000000000000
+      internalID: 6511040123119912555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8326b0e0b910e50800000000000000
+      internalID: 6773865799164770482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_81
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea73b7d40f23a6f0800000000000000
+      internalID: -674643821330203933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c425f11de97dbf0800000000000000
+      internalID: -299596229186007972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d115c8daae9aa80800000000000000
+      internalID: -8454968794307027626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16b788c85d522c0800000000000000
+      internalID: -4456921456651312673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac6be4ab9e30f100800000000000000
+      internalID: 139680426656230571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4624e9b65743d0800000000000000
+      internalID: -3222511651963646401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f48d26326dd9e2b0800000000000000
+      internalID: -5554665251499309839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d90b3d074b74e40800000000000000
+      internalID: 5640675454985739579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f1c694fddcdefc0800000000000000
+      internalID: -3463886179484819618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_90
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08db2780f344d4070800000000000000
+      internalID: 8092199142970015104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e505462a080009d50800000000000000
+      internalID: 6741889194653929566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db205c2588158450800000000000000
+      internalID: 6090301031341632469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7100b778fa42c130800000000000000
+      internalID: 3585510684360704381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e506dc1ffe1f050800000000000000
+      internalID: 5832706814233304664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398cf3d31aaa8eb0800000000000000
+      internalID: -4716770657579529930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_96
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bd8b3fbdc109750800000000000000
+      internalID: 6309574808958458731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82981caf098d23d0800000000000000
+      internalID: -3229774657349971318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129375383e4f6310800000000000000
+      internalID: 1400424012457415194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0064f5aaf3e9f0800000000000000
+      internalID: -440232747875693352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89e0de7316bd9e60800000000000000
+      internalID: 7970727110363900301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1039ec297dfdcf5f0800000000000000
+      internalID: -721455723312147711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49988e1a0ba909860800000000000000
+      internalID: 7534692260012132756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b971c9d6ecedb70800000000000000
+      internalID: 8925798481660451634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_104
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1a7e629866037d0800000000000000
+      internalID: -2940737817423666709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_105
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3bb94efcbedc70800000000000000
+      internalID: 8997836905877552855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6941ca9ea53f02210800000000000000
+      internalID: 1306311463730418838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db32ecec7bf121d0800000000000000
+      internalID: -3377141731582395440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c32ebcca57e4360800000000000000
+      internalID: 7155786242953722982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_109
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3642b949ab4710800000000000000
+      internalID: 1678621420114295365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc8a3b93edfb430800000000000000
+      internalID: 3801000949932673884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_111
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a35c7c180689f0800000000000000
+      internalID: -466676592948305132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7b7cc9554f19d0800000000000000
+      internalID: -2801444191216108807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d3ea7f1e356eeb0800000000000000
+      internalID: -4690969731871654532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c2e7692b6ae0f0800000000000000
+      internalID: -1086938534475806315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c684beee076d6e0800000000000000
+      internalID: -1813137628518126524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5420920a7a281e810800000000000000
+      internalID: 1792857783128359493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809daf93aaf347b90800000000000000
+      internalID: -7245095900182554360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fe436891547a90800000000000000
+      internalID: -7317133779627215897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_119
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471b069e649440900800000000000000
+      internalID: 649724815160160628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_120
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6198d6c7e11330800000000000000
+      internalID: 3679977211761356544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_121
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e4c45840395ed0800000000000000
+      internalID: -2424853837144333639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_122
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8142c88ff34f70800000000000000
+      internalID: 9170454229096172109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_123
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3818ea3458d650110800000000000000
+      internalID: 1226506892661916035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb4a042f5278440800000000000000
+      internalID: 4937957238831889152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65eda2f3f65ca4e0800000000000000
+      internalID: -1969103331319224981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2573d88b51f9a3580800000000000000
+      internalID: -8846583602376525998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c186fb70de1bde0800000000000000
+      internalID: -1319012598311019418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2511994041cd7bf0800000000000000
+      internalID: -324891116244495059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7e8e6ccb5a61980800000000000000
+      internalID: -8568479010816202763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d425610d8c59d0800000000000000
+      internalID: -2784195432490411924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e19849d315d530800000000000000
+      internalID: 3879028477995902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_132
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b3a9dc40cbdcf0800000000000000
+      internalID: -226375919950646724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff69eb4a63805d0800000000000000
+      internalID: -3096164662617112621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f002587c925ae570800000000000000
+      internalID: 8496694478974877943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_135
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f578ba262075a05f0800000000000000
+      internalID: -789723116893141153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_136
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf09666055909eb0800000000000000
+      internalID: -4715104637308825657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0fdd5e5cdc1bc0800000000000000
+      internalID: -3810928886802347282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f887d5671353c0800000000000000
+      internalID: -4372125087071406401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ef07270315d960800000000000000
+      internalID: 7626022465462854801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2729d604fb51bd0800000000000000
+      internalID: -2660009721455283471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8613a85e5fa08680800000000000000
+      internalID: -8754804855859374449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca23b6c96ba49ac0800000000000000
+      internalID: -3849263310701385015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d86b1a7e236320800000000000000
+      internalID: 2549932916002574900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d7b4b59455c480800000000000000
+      internalID: -8879598088332257947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_145
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ddc3f1008cd9e70800000000000000
+      internalID: 9123668322972130669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f61a20d126d4d0800000000000000
+      internalID: -3110261314709687974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_147
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3140fdc043d2ff0800000000000000
+      internalID: -59333990200110110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_148
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2cc72edd9d0030800000000000000
+      internalID: 3462597265993771737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcba34b89aac67b0800000000000000
+      internalID: -5229617494448489283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_150
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c895dcce2efcccb0800000000000000
+      internalID: -4842216022371624761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57df66ba36d36e20800000000000000
+      internalID: 3342750896096270170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fcff60ebc86b7a0800000000000000
+      internalID: -6361742675825143927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248a3b6e61c98260800000000000000
+      internalID: 7100418967515857960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b6a6ef80284020800000000000000
+      internalID: 2326145009958959202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c1636d138ff10f0800000000000000
+      internalID: -1143922887397860263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_156
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b5ffc4515b3700800000000000000
+      internalID: 521099606599512250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_157
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5632a5fe6c5d424f0800000000000000
+      internalID: -854322978897648795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_158
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe9e738cf3eb990800000000000000
+      internalID: -7368381811167465631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634d5d74c3b9ace0800000000000000
+      internalID: -1393384953196231838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9beab2736ba450800000000000000
+      internalID: 6101079464616893041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_161
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9cb8a5a65b30090800000000000000
+      internalID: -8069406638927525418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_162
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def6dd05208c6a210800000000000000
+      internalID: 1343981451088850925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_163
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6569bd3cbb67f7080800000000000000
+      internalID: -9187494165995612586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_164
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde20814213c5640800000000000000
+      internalID: 5069981311603764700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_165
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df29306ea464ac0800000000000000
+      internalID: -3871324477915464322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e67b42a23a59990800000000000000
+      internalID: -7379813012976734589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90099e0b7ab5f870800000000000000
+      internalID: 8716077691534114973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae2530fffb32a8c0800000000000000
+      internalID: -3989560349464121689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0aecbb856a3dd60800000000000000
+      internalID: 7913851870258307322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6e8727d795d7ea0800000000000000
+      internalID: -5873439943694948639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c4c14c02973bc10800000000000000
+      internalID: 2068129835529292814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec13532449f8d80800000000000000
+      internalID: -8246209380610879772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_173
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91fe1b0e7901e210800000000000000
+      internalID: 1360378999399707034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb3dbc303ce8aa40800000000000000
+      internalID: 5379809446815677379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_175
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc74fe632adbd140800000000000000
+      internalID: 4745626478085176524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_176
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de41a90c0f048c0800000000000000
+      internalID: -4016946157605032619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_177
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293d9ac8d9fc4b30800000000000000
+      internalID: 4273064855975311658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: af,die met blauwe achtergrond niet gebruiken_178
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 40
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e7323e1280c80b0800000000000000
+      internalID: -5725192084657045918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
