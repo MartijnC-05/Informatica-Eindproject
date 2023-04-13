@@ -1632,3 +1632,11 @@ Received Import Request.
 Start importing Assets/pixelarttree_3.asset using Guid(abee31491573a48b1bcaa8f71f2ed63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6857741e812f950f8023479e6ef75269') in 0.022899 seconds 
   Import took 0.037297 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 72.586550 seconds.
+  path: Assets/Scenes/Scene2.unity
+  artifactKey: Guid(b0520836a4285b54690e4e24d14a0175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Scene2.unity using Guid(b0520836a4285b54690e4e24d14a0175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '359928ac0abb7c65b160e2f85c564a6d') in 0.018642 seconds 
+  Import took 0.027710 seconds .
+
