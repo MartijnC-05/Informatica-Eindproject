@@ -31,7 +31,13 @@ public class GameManager : MonoBehaviour
     public List<int> xpTable;
 
     //References
+    
     public player player;
+
+    //[Serializable]
+    //public class player
+
+
     //public weapon weapon...
     public FloatingTextManager floatingTextManager;
 
@@ -66,6 +72,13 @@ public class GameManager : MonoBehaviour
             s += player.hitpoint.ToString();
         }
 
+        /*
+        if (player != null)
+        {
+            string playerData = JsonUtility.ToJson(player);
+            PlayerPrefs.SetString("PlayerData", playerData);
+        }*/
+
         PlayerPrefs.SetString("SaveState", s); //Je savet op savestate alles wat je aan s hebt toegevoegd (soort boodschappenlijst)
     }
 
@@ -87,6 +100,13 @@ public class GameManager : MonoBehaviour
         {
             player.hitpoint = int.Parse(data[4]);
         }
+
+        /*
+        if (PlayerPrefs.HasKey("PlayerData"))
+        {
+            string playerData = PlayerPrefs.GetString("PlayerData");
+            player = JsonUtility.FromJson<player>(playerData);
+        }*/
 
         Debug.Log("LoadState");
     }
