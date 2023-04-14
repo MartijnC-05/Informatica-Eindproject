@@ -16,7 +16,7 @@ public class Quests : Collectable
 
     [SerializeField] private ItemClass itemToAdd;
     public Sprite Leeg;
-    public bool questcomplete;
+
 
 
     protected override void OnCollect()
@@ -28,7 +28,7 @@ public class Quests : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = Leeg;
             InventoryManager.instance.Add(itemToAdd);
-            questcomplete = true;
+            QuestMaster.instance.questcomplete = QuestMaster.instance.questcomplete + 1;
             //GameManager.instance.ShowText("collected!", 25, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
             NotificationAnim.instance.Pling();
             TextManager.instance.myText = "collected!";

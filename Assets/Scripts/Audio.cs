@@ -28,7 +28,7 @@ public class Audio : MonoBehaviour
 
     public void Boom()
     {
-        if (Quests.instance.questcomplete == true)
+        if (QuestMaster.instance.questcomplete == 2)
         {
             if (Done == false)
             {

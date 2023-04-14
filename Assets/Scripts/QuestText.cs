@@ -18,7 +18,7 @@ public class QuestText : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Quests.instance.questcomplete == true)
+        if (QuestMaster.instance.questcomplete == 2)
         {
             //GetChild(2).GetComponent<Text>().text = questmessage;
             GetComponent<Text>().text = questmessage;
