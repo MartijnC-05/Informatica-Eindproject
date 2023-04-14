@@ -54,6 +54,7 @@
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\Collectable.cs" />
      <Compile Include="Assets\Scripts\DataPersistance\DataPersistanceManager.cs" />
+     <Compile Include="Assets\Scripts\Quests2.cs" />
      <Compile Include="Assets\Scripts\Chest.cs" />
      <Compile Include="Assets\Scripts\ToolClass.cs" />
      <Compile Include="Assets\Scripts\CharacterMenu.cs" />
@@ -62,6 +63,7 @@
      <Compile Include="Assets\Scripts\SoundManager.cs" />
      <Compile Include="Assets\Scripts\InventoryManager.cs" />
      <Compile Include="Assets\ButtonClickSound.cs" />
+     <Compile Include="Assets\Scripts\QuestCounter.cs" />
      <Compile Include="Assets\Scripts\ItemClass.cs" />
      <Compile Include="Assets\DialogueManager.cs" />
      <Compile Include="Assets\Scripts\OpenNote.cs" />
@@ -89,6 +91,7 @@
      <Compile Include="Assets\Scripts\QuestMaster.cs" />
      <Compile Include="Assets\Scripts\MiscClass.cs" />
      <Compile Include="Assets\Scripts\Damage.cs" />
+     <Compile Include="Assets\Scripts\Quest2Counter.cs" />
      <Compile Include="Assets\Scripts\Portal.cs" />
      <Compile Include="Assets\Scripts\Sword.cs" />
      <Compile Include="Assets\MainMenu.cs" />
