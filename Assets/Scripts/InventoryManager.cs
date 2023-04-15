@@ -27,12 +27,19 @@ public class InventoryManager : MonoBehaviour
 
     }
 
+    private Vector2 mousePos;
+
     //Kan dus andere functie zijn als er bijvoorbeeld wordt gecolide
     private void Start()
     {
         slots = new GameObject[slotHolder.transform.childCount];
         //items = new SlotClass[slots.Length];
 
+        // Initialize mousePos using Screen.width and Screen.height
+        //mousePos = Input.mousePosition;
+        //float xNorm = mousePos.x / Screen.width;
+        //float yNorm = mousePos.y / Screen.height;
+        //mousePos = new Vector2(xNorm, yNorm);
 
         //set all the slots
         for (int i = 0; i < slotHolder.transform.childCount; i++)
@@ -45,13 +52,15 @@ public class InventoryManager : MonoBehaviour
 
     private void Update()
     {
+        Vector2 normScreenPos = new Vector2(Input.mousePosition.x / Screen.width, Input.mousePosition.y / Screen.height);
+
         if (Input.GetMouseButtonDown(0)) // we clicked
         {
+
             //item gebruiken
-            if (GetClosestSlot() != null)
+            if (GetClosestSlot(normScreenPos) != null)
             {
-                
-                GetClosestSlot().GetItem().Use(this); 
+                GetClosestSlot(normScreenPos).GetItem().Use(this); 
             }
             /* (GetClosestSlot() != null)
             {
@@ -73,29 +82,52 @@ public class InventoryManager : MonoBehaviour
             try
             {
                 slots[i].transform.GetChild(0).GetComponent<Image>().enabled = true;
-                slots[i].transform.GetChild(0).GetComponent<Image>().sprite = items[i].GetItem().itemIcon;                
-                slots[i].transform.GetChild(4).GetComponent<Text>().text = items[i].GetItem().itemName;
-                if (items[i].GetItem().isStackable)
+                slots[i].transform.GetChild(4).GetComponent<Image>().enabled = true;
+                slots[i].transform.GetChild(4).GetChild(0).GetComponent<Text>().text = "use";
+                slots[i].transform.GetChild(6).GetComponent<Image>().enabled = true;
+                slots[i].transform.GetChild(6).GetComponent<Image>().sprite = items[i].GetItem().itemIcon;                
+                slots[i].transform.GetChild(7).GetComponent<Text>().text = items[i].GetItem().itemName;
+                slots[i].transform.GetChild(5).GetComponent<Text>().text = "Amount:";
+                if (items[i].GetItem().isStackable) //consumable
                 {
                     slots[i].transform.GetChild(1).GetComponent<Text>().text = items[i].GetQuantity() + ""; //alleen quantity geven bij stackbare items
                     slots[i].transform.GetChild(3).GetComponent<Text>().text = "";
                     slots[i].transform.GetChild(2).GetComponent<Text>().text = items[i].GetItem().hp;
+                    slots[i].transform.GetChild(5).GetComponent<Text>().text = "Amount:";
+
                 }
-                else
+                else if (items[i].GetItem().itemName == "Lighter" || items[i].GetItem().itemName == "Dynamite" || items[i].GetItem().itemName == "Part 1" || items[i].GetItem().itemName == "Part 2" || items[i].GetItem().itemName == "Part 3" || items[i].GetItem().itemName == "Part 4" || items[i].GetItem().itemName == "Part 5")
+                {
+                    slots[i].transform.GetChild(0).GetComponent<Image>().enabled = false;
+                    slots[i].transform.GetChild(1).GetComponent<Text>().text = "";
+                    slots[i].transform.GetChild(5).GetComponent<Text>().text = "";
+                    slots[i].transform.GetChild(4).GetComponent<Image>().sprite = null;
+                    slots[i].transform.GetChild(4).GetChild(0).GetComponent<Text>().text = "";
+                    slots[i].transform.GetChild(4).GetComponent<Image>().enabled = false;
+                }
+                else //weapon
                 {
                     slots[i].transform.GetChild(1).GetComponent<Text>().text = "";
                     slots[i].transform.GetChild(3).GetComponent<Text>().text = items[i].GetItem().dmg;
                     slots[i].transform.GetChild(2).GetComponent<Text>().text = "";
+                    slots[i].transform.GetChild(5).GetComponent<Text>().text = "";
                 }
             }
             catch 
             {
+                slots[i].transform.GetChild(6).GetComponent<Image>().sprite = null;
+                slots[i].transform.GetChild(6).GetComponent<Image>().enabled = false;
                 slots[i].transform.GetChild(0).GetComponent<Image>().sprite = null;
                 slots[i].transform.GetChild(0).GetComponent<Image>().enabled = false;
+                slots[i].transform.GetChild(4).GetComponent<Image>().sprite = null;
+                slots[i].transform.GetChild(4).GetChild(0).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(4).GetComponent<Image>().enabled = false;
                 slots[i].transform.GetChild(1).GetComponent<Text>().text = "";
                 slots[i].transform.GetChild(2).GetComponent<Text>().text = "";
                 slots[i].transform.GetChild(3).GetComponent<Text>().text = "";
-                slots[i].transform.GetChild(4).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(5).GetComponent<Text>().text = "";
+                slots[i].transform.GetChild(7).GetComponent<Text>().text = "";
+
             }
         }
     }
@@ -168,7 +200,7 @@ public class InventoryManager : MonoBehaviour
     #endregion Inventory Utils
 
     #region interacting with stuff
-    private SlotClass GetClosestSlot()
+    /*private SlotClass GetClosestSlot()
     {
         SlotClass closestSlot = null;
         float closestDistance = float.MaxValue;
@@ -193,7 +225,41 @@ public class InventoryManager : MonoBehaviour
         
         return closestSlot;
         
+    }*/
+
+
+    private SlotClass GetClosestSlot(Vector2 normScreenPos)
+    {
+        SlotClass closestSlot = null;
+        float closestDistance = float.MaxValue;
+
+        for (int i = 0; i < slots.Length; i++)
+        {
+            RectTransform rectTransform = slots[i].GetComponent<RectTransform>();
+            Vector3[] corners = new Vector3[4];
+            rectTransform.GetWorldCorners(corners);
+
+            Rect slotRect = new Rect(
+                corners[0].x / Screen.width, // left
+                corners[0].y / Screen.height, // bottom
+                rectTransform.rect.width / Screen.width, // width
+                rectTransform.rect.height / Screen.height // height
+            );
+
+            if (slotRect.Contains(normScreenPos))
+            {
+                float distance = Vector2.Distance(slots[i].transform.position, Input.mousePosition);
+                if (distance < closestDistance)
+                {
+                    closestDistance = distance;
+                    closestSlot = items[i];
+                }
+            }
+        }
+
+        return closestSlot;
     }
+
     #endregion
 
 }

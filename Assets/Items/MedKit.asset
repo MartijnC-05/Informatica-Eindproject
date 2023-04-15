@@ -15,6 +15,6 @@ MonoBehaviour:
   itemName: Med Kit
   hp: +100% hp
   dmg: 
-  itemIcon: {fileID: -7479814810284170135, guid: 25265b5c2b83b4b40875c26051802392, type: 3}
+  itemIcon: {fileID: 3059076114534577413, guid: 25265b5c2b83b4b40875c26051802392, type: 3}
   isStackable: 1
   healthAdded: 100

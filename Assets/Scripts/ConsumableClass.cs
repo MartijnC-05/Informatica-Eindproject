@@ -11,7 +11,7 @@ public class ConsumableClass : ItemClass
 
     public override void Use(InventoryManager Caller)
     {
-        if (CharacterMenu.instance.player.hitpoint == 10)
+        if (CharacterMenu.instance.player.hitpoint == 100)
         {
             NotificationAnim.instance.Pling();
             Debug.Log("Health is full");
