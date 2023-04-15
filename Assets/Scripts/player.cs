@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class player : Mover, IDataPersistance
+public class player : Mover, ISavable
 {
    private void FixedUpdate()
     {
@@ -10,6 +10,18 @@ public class player : Mover, IDataPersistance
         float y = Input.GetAxisRaw("Vertical");
 
         UpdateMotor(new Vector3(x, y, 0));
+    }
+
+    public object CaptureState()
+    {
+        float[] position = new float[] { transform.position.x, transform.position.y };
+        return position;
+    }
+
+    public void RestoreState(object state)
+    {
+        var position = (float[])state;
+        transform.position = new Vector3(position[0], position[1]);
     }
 
     public void LoadData(GameData data)

@@ -22,6 +22,7 @@ public class OxygenController : MonoBehaviour
         oxygenSlider.maxValue = maxOxygen;
     }
 
+    public player player;
     private void Update()
     {
         if (IsUnderwater())
@@ -45,7 +46,7 @@ public class OxygenController : MonoBehaviour
 
         if (currentOxygen <= 0f)
         {
-            GameManager.instance.player.hitpoint -= 1;
+            player.hitpoint -= 1;
         }
     }
 

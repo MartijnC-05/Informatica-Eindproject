@@ -877,7 +877,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotHolder: {fileID: 148139984}
-  itemToAdd: {fileID: 0}
+  itemToAdd: {fileID: 11400000, guid: 5e08531fdc4ae234095c76563c4b8078, type: 2}
   itemToRemove: {fileID: 0}
   startingItems: []
   items: []
@@ -5169,11 +5169,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -5464,6 +5464,7 @@ MonoBehaviour:
   healthText: {fileID: 1878858779}
   health: 100
   hpBar: {fileID: 1492478131}
+  player: {fileID: 1380936708}
 --- !u!114 &353621150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5479,6 +5480,7 @@ MonoBehaviour:
   healthText: {fileID: 1878858779}
   health: 100
   hpBar: {fileID: 1492478131}
+  player: {fileID: 1380936708}
   thisScene: Scene1
   open: 0
 --- !u!225 &353621151
@@ -6061,6 +6063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -6118,6 +6124,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -6355,11 +6365,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -7902,11 +7912,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -8613,6 +8623,10 @@ PrefabInstance:
       value: Krabbetje (2)
       objectReference: {fileID: 0}
     - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: droppable.Array.size
       value: 3
       objectReference: {fileID: 0}
@@ -8832,7 +8846,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 137863658}
   m_HandleRect: {fileID: 137863657}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1
   m_Size: 0.6418919
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -9935,11 +9949,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -10334,6 +10348,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: droppable.Array.size
       value: 1
@@ -12357,6 +12375,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: droppable.Array.size
       value: 3
@@ -20874,6 +20896,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348464, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -21019,6 +21045,7 @@ GameObject:
   - component: {fileID: 1380936708}
   - component: {fileID: 1380936711}
   - component: {fileID: 1380936713}
+  - component: {fileID: 1380936712}
   m_Layer: 9
   m_Name: player
   m_TagString: Fighter
@@ -21151,6 +21178,20 @@ MonoBehaviour:
   oxygenDecreaseRate: 8
   oxygenIncreaseRate: 35
   oxygenPercentageText: {fileID: 270256547}
+  player: {fileID: 1380936708}
+--- !u!114 &1380936712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380936706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4881f89f8b930e34489bbb86116ccd4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  uniqueId: e5d1d9a5-471b-47c4-abf9-fff0f600e6fa
 --- !u!95 &1380936713
 Animator:
   serializedVersion: 3
@@ -21737,6 +21778,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: droppable.Array.size
       value: 4
@@ -22718,11 +22763,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -23944,6 +23989,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713887844}
   - component: {fileID: 1713887843}
+  - component: {fileID: 1713887845}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -23985,6 +24031,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1713887845
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713887842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ddb908fa7c729419f05867d9550daf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1733681950
 GameObject:
   m_ObjectHideFlags: 0
@@ -24720,11 +24778,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.x
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5250799436456147514, guid: cdf1f37e37afe9c4daf5d354ae716868, type: 3}
       propertyPath: m_RootOrder
@@ -63641,6 +63699,10 @@ PrefabInstance:
       value: Krabbetje (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: pushRecoverySpeed
       value: 0.1
       objectReference: {fileID: 0}
@@ -63816,6 +63878,10 @@ PrefabInstance:
       value: Visje
       objectReference: {fileID: 0}
     - target: {fileID: 1683195066436287861, guid: ee0e25de49392dd45b523000d9d397fd, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
+    - target: {fileID: 1683195066436287861, guid: ee0e25de49392dd45b523000d9d397fd, type: 3}
       propertyPath: droppable.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -63836,6 +63902,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Kwal
       objectReference: {fileID: 0}
+    - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 1900040164318348463, guid: 7feb7cb9ada01f34a9bf0b29a43f9807, type: 3}
       propertyPath: droppable.Array.size
       value: 4
@@ -63967,6 +64037,10 @@ PrefabInstance:
       value: Krabbetje
       objectReference: {fileID: 0}
     - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
+    - target: {fileID: 3344870371357716252, guid: b46f0d9d5af6fe04b94124740015a344, type: 3}
       propertyPath: droppable.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -64083,6 +64157,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3780180874216059831, guid: d48ece8e2512c494ba9ca5290cbcbeab, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1380936708}
     - target: {fileID: 3780180874216059831, guid: d48ece8e2512c494ba9ca5290cbcbeab, type: 3}
       propertyPath: droppable.Array.size
       value: 1

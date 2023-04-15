@@ -23,13 +23,15 @@ public class Enemy : Mover
     private Collider2D[] hits = new Collider2D[10];
     public ContactFilter2D filter;
 
+    public player player;
+
     protected override void Start()
     {
         base.Start();
-        if (GameManager.instance != null && GameManager.instance.player != null)
-        {
-            playerTransform = GameManager.instance.player.transform;
-        }
+        //if (GameManager.instance != null && GameManager.instance.player != null)
+        //{
+        playerTransform = /*GameManager.instance.*/player.transform;
+        //}
 
         startingPosition = transform.position;
         hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
@@ -54,6 +56,8 @@ public class Enemy : Mover
         startingPosition = transform.position;
         hitbox = transform.GetChild(0).GetComponent<BoxCollider2D>();
     }*/
+
+    
 
     private void FixedUpdate()
     {
@@ -118,7 +122,7 @@ public class Enemy : Mover
             }
         }
         Destroy(gameObject);
-        GameManager.instance.experience += xpValue;
+        //GameManager.instance.experience += xpValue;
         //GameManager.instance.ShowText("+" + xpValue + " xp", 30, Color.magenta, transform.position, Vector3.up * 40, 1.0f);
     }
 }

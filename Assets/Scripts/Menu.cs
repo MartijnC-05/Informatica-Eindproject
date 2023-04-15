@@ -41,6 +41,7 @@ public class Menu : CharacterMenu
     public void BackToMainMenu()
     {
         GameManager.instance.SaveState();
+        //SavingSystem.i.Save("saveSlot1");
         Portal.instance.currentScene = thisScene;
         SceneManager.LoadScene("Menu");
     }

@@ -49,7 +49,8 @@ public class InventoryManager : MonoBehaviour
         {
             //item gebruiken
             if (GetClosestSlot() != null)
-            { 
+            {
+                
                 GetClosestSlot().GetItem().Use(this); 
             }
             /* (GetClosestSlot() != null)
@@ -189,10 +190,12 @@ public class InventoryManager : MonoBehaviour
                 }
             }
         }
-
+        
         return closestSlot;
+        
     }
     #endregion
+
 }
 
 //Debug.Log(Vector2.Distance(slots[i].transform.position, Input.mousePosition));

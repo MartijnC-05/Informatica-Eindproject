@@ -17,11 +17,16 @@ public class GameManager : MonoBehaviour
         }
 
         //PlayerPrefs.DeleteAll();//Nu wordt alles aan het begin gereset
-
+        //SavingSystem.i.Load("saveSlot1");
         instance = this;
         SceneManager.sceneLoaded += LoadState;
         DontDestroyOnLoad(gameObject);
     }
+
+    /*private void Start()
+    {
+        SavingSystem.i.Load("saveSlot1");
+    }*/
 
 
     //Resources
@@ -61,9 +66,9 @@ public class GameManager : MonoBehaviour
         s += pesos.ToString() + "|"; //Zet een int om naar een string
         s += experience.ToString() + "|";
         s += "0" + "|";
-        if (player != null)
+        if (CharacterMenu.instance.player != null)
         {
-            s += player.hitpoint.ToString();
+            s += CharacterMenu.instance.player.hitpoint.ToString();
         }
 
         PlayerPrefs.SetString("SaveState", s); //Je savet op savestate alles wat je aan s hebt toegevoegd (soort boodschappenlijst)
@@ -83,9 +88,9 @@ public class GameManager : MonoBehaviour
         pesos = int.Parse(data[1]);
         experience = int.Parse(data[2]);
         //Change the weapon level
-        if (player != null)
+        if (CharacterMenu.instance.player != null)
         {
-            player.hitpoint = int.Parse(data[4]);
+            CharacterMenu.instance.player.hitpoint = int.Parse(data[4]);
         }
 
         Debug.Log("LoadState");

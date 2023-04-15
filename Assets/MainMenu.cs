@@ -40,10 +40,14 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
         //DataPersistanceManager.instance.NewGame();
+        PlayerPrefs.DeleteAll();
     }
 
     public void LoadGame()
     {
+        //SavingSystem.i.Load("saveSlot1");
+        Debug.Log("Load");
+
         SceneManager.LoadScene(Portal.instance.currentScene);
     }
 
